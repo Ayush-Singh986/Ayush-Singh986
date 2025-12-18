@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="DevOps Banner" src="https://user-images.githubusercontent.com/74038190/212749902-40e4b61e-91f4-4d3b-aad4-8d0bfae3e0d4.gif" />
 
-<!-- Visitor Badge -->
+<!-- Visitor Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ayush-singh986&label=VISITORS&color=0e75b6&style=flat" />
   <br><br>
@@ -21,7 +21,7 @@
 <h3 align="center">A Passionate DevOps Engineer & Cloud Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-DevOps | Cloud | CI/CD | Kubernetes | Terraform | Monitoring<br>
+DevOps • Cloud • CI/CD • Kubernetes • Terraform • Monitoring<br>
 Always learning, always building 🚀
 </p>
 
@@ -29,18 +29,17 @@ Always learning, always building 🚀
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🌱 Currently learning **DevOps & AIOps**
 - 👯 Looking to collaborate on **Cloud Native & DevOps Projects**
-- 💬 Ask me about **DevOps, Cloud & CI/CD**
+- 💬 Ask me about **DevOps & Cloud**
 - 📫 Reach me at **ayush054483@gmail.com**
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 ---
 
-### 🛠️ My Technical Skills
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
@@ -76,7 +75,7 @@ Always learning, always building 🚀
 
 ---
 
-### 📊 GitHub Stats & Insights
+## 📊 GitHub Stats & Insights
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ayush-singh986&show_icons=true&theme=github_dark&hide=issues"/>
@@ -91,13 +90,13 @@ Always learning, always building 🚀
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-singh986&theme=darkhub&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayush-singh986&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 ---
 
-<samp>🚀 Trying to learn and build **one new thing every day**.</samp>
+<samp>🚀 Trying to learn and build <b>one new thing every day</b>.</samp>
