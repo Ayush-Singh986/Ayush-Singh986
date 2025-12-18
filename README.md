@@ -25,6 +25,10 @@ DevOps • Cloud • CI/CD • Kubernetes • Terraform • Monitoring<br>
 Always learning, always building 🚀
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 ---
@@ -34,6 +38,10 @@ Always learning, always building 🚀
 - 👯 Looking to collaborate on **Cloud Native & DevOps Projects**
 - 💬 Ask me about **DevOps & Cloud**
 - 📫 Reach me at **ayush054483@gmail.com**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
@@ -53,6 +61,10 @@ Always learning, always building 🚀
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,jenkins,kubernetes,terraform,git,github,nginx,grafana,prometheus" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="450"/>
+</p>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 ---
@@ -61,7 +73,7 @@ Always learning, always building 🚀
 
 | Category | Tools |
 |--------|------|
-| **DevOps** | Docker, Kubernetes, Jenkins, Terraform, Ansible |
+| **DevOps** | Docker, Kubernetes, Jenkins, Terraform |
 | **Cloud** | AWS |
 | **Monitoring** | Prometheus, Grafana |
 | **OS** | Linux, Ubuntu, Windows |
@@ -71,11 +83,15 @@ Always learning, always building 🚀
 | **Version Control** | Git, GitHub |
 | **Servers** | Nginx, Apache |
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+</p>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 ---
 
-## 📊 GitHub Stats & Insights
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ayush-singh986&show_icons=true&theme=github_dark&hide=issues"/>
@@ -86,13 +102,8 @@ Always learning, always building 🚀
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-singh986&bg_color=141414&color=ffffff&line=00b4d8&point=ff5252&area=true&hide_border=true"/>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
-
----
-
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-singh986&theme=onedark&no-frame=true&margin-w=10"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="480"/>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
