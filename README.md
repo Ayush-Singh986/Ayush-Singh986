@@ -76,10 +76,10 @@ Always learning, always building 🚀
 | **DevOps** | Docker, Kubernetes, Jenkins, Terraform |
 | **Cloud** | AWS |
 | **Monitoring** | Prometheus, Grafana |
-| **OS** | Linux, Ubuntu, Windows |
-| **Languages** | Python, Bash, C, C++ |
+| **OS** | Linux, Ubuntu |
+| **Languages** | Python  |
 | **Web** | HTML, CSS, JavaScript, React |
-| **Databases** | MySQL, MSSQL |
+| **Databases** | MySQL |
 | **Version Control** | Git, GitHub |
 | **Servers** | Nginx, Apache |
 
