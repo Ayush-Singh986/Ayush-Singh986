@@ -1,4 +1,4 @@
-<!-- ================== TOP DEVOPS PIXEL IMAGE ================== -->
+<!-- ================== TOP PIXEL IMAGE ================== -->
 <p align="center">
   <img src="8bc06c6f-27eb-4fab-b7e1-7b8fd2c94fdf.png" width="100%" />
 </p>
@@ -8,16 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Specialist;Building+Scalable+Infrastructure+🚀" />
 </p>
 
-<img width="1584" height="396" alt="DevOps Banner" src="https://user-images.githubusercontent.com/74038190/212749902-40e4b61e-91f4-4d3b-aad4-8d0bfae3e0d4.gif" />
+<!-- ================== DEVOPS BANNER ================== -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749902-40e4b61e-91f4-4d3b-aad4-8d0bfae3e0d4.gif" />
 
-<!-- ================== VISITOR + COOL BUTTONS ================== -->
+<!-- ================== VISITOR COUNTER + COOL BUTTONS ================== -->
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=ayush-singh986&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
   
   <br><br>
 
-  <!-- Cool Gradient Buttons -->
   <a href="https://github.com/ayush-singh986">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -43,58 +43,45 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">A Passionate DevOps Engineer & Cloud Enthusiast from India 🇮🇳</h3>
-
-<p align="center">
-DevOps • Cloud • CI/CD • Kubernetes • Terraform • Monitoring<br>
-Always learning, always building 🚀
-</p>
-
-<!-- ================== NEW ANIMATED DEVOPS IMAGE ================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation Lover 🇮🇳</h3>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **DevOps & AIOps**
-- 👯 Looking to collaborate on **Cloud Native & DevOps Projects**
-- 💬 Ask me about **DevOps & Cloud**
+- 🌱 Currently mastering **DevOps & AIOps**
+- 🔥 Building real-world **Cloud Native Projects**
+- 🛠️ Focused on Automation & Scalable Infrastructure
 - 📫 Reach me at **ayush054483@gmail.com**
 
 ---
 
 ## 🧠 DevOps Philosophy
 
-> ⚡ “Automate everything. Scale fearlessly. Monitor intelligently.”
+> ⚡ Automate Everything.  
+> 🚀 Deploy Fearlessly.  
+> 📊 Monitor Intelligently.  
+> 🔐 Secure by Default.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,html,css,javascript,react,nodejs" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,jenkins,kubernetes,terraform,git,github,nginx,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,javascript,react,nodejs,aws,docker,linux,jenkins,kubernetes,terraform,git,github,nginx,grafana,prometheus,mysql" />
 </p>
 
 ---
 
-## 📂 Featured Projects (Click to Expand)
+## 📂 Featured Projects
 
 <details>
 <summary>🚀 DevSecOps Netflix Clone Deployment</summary>
 
-- CI/CD using Jenkins  
+- Jenkins CI/CD  
 - Dockerized microservices  
-- Kubernetes cluster deployment  
-- Monitoring with Prometheus & Grafana  
-- Automated security scanning  
+- Kubernetes deployment  
+- Prometheus & Grafana monitoring  
+- Trivy & SonarQube security scanning  
 
 </details>
 
@@ -104,13 +91,14 @@ Always learning, always building 🚀
 - AWS Lambda  
 - API Gateway  
 - DynamoDB  
-- Infrastructure as Code with Terraform  
+- Terraform IaC  
+- Automated compliance checks  
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ayush-singh986&show_icons=true&theme=github_dark"/>
@@ -123,17 +111,49 @@ Always learning, always building 🚀
 
 ---
 
-## ⚡ Fun DevOps Animation
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayush-singh986&theme=onestar&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/ayush-singh986/ayush-singh986/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-singh986&theme=github_dark"/>
+</p>
+
+---
+
+## ⚡ DevOps in Action
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
+</p>
+
+---
+
+## 💡 Daily Motivation
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 Let's Build Scalable Systems Together
+### 💼 Open for DevOps Opportunities
 
 <a href="mailto:ayush054483@gmail.com">
   <img src="https://img.shields.io/badge/📩_Contact_Me-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
