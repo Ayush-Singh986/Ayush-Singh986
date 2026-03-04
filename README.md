@@ -1,15 +1,41 @@
+<p align="center">
+  <img src="8bc06c6f-27eb-4fab-b7e1-7b8fd2c94fdf.png" width="100%" />
+</p>
+
 <img width="1584" height="396" alt="DevOps Banner" src="https://user-images.githubusercontent.com/74038190/212749902-40e4b61e-91f4-4d3b-aad4-8d0bfae3e0d4.gif" />
 
 <!-- Visitor Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ayush-singh986&label=VISITORS&color=0e75b6&style=flat" />
   <br><br>
+
+  <!-- Cool Buttons -->
+  <a href="https://github.com/ayush-singh986">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/ayush-singh-59469b310/">
-    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="mailto:ayush054483@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Resume-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/DevOps_Projects-FF6F00?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
+
+  <br><br>
+
   <a href="https://www.leetcode.com/ayush%20singh">
     <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" />
   </a>
