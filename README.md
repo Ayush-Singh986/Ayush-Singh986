@@ -91,6 +91,12 @@ Software engineer with a strong computer science foundation, specializing in **J
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
 
+**Application & Data Operations**
+<p>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
 **Security & Systems**
 <p>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
@@ -104,13 +110,52 @@ Software engineer with a strong computer science foundation, specializing in **J
 ### 💼 Experience
 
 **Managed Services Consultant — Application Support & DevOps**
-*[Gresham Technology]* · [JAN 2025] – Present
-- Monitored production services and triaged alerts using Grafana, reducing mean time to identify recurring incidents.
-- Investigated application and data anomalies across production, isolating root cause for cross-functional teams.
-- Built and modified Apache Airflow DAGs and task schedules to support enterprise data-workflow delivery.
-- Used Linux, Shell/KSH, and Git for change development, testing, and deployment validation across UAT and Production.
+*Gresham Technology* · [2025] – Present
 
-> ✏️ *Fill in company name and exact dates before publishing — these were placeholders in your source resume.*
+<details>
+<summary><b>Client Engagement: EXP — Application Support</b></summary>
+<br>
+
+- Monitored production services and triaged application alerts using Grafana and log/alert-rule analysis, reducing mean time to identify recurring incidents across the environment.
+- Investigated application and data anomalies — including HTTP errors, validation failures, and suspect-data conditions — across production, isolating root cause for cross-functional teams.
+- Partnered with application and data teams to validate fixes across UAT and Production, ensuring changes met managed-services quality gates before release.
+- Tracked recurring production incidents end-to-end from detection through resolution, supporting consistent SLA adherence.
+
+</details>
+
+<details>
+<summary><b>Client Engagement: BNS — Data Operations</b></summary>
+<br>
+
+- Built and modified Apache Airflow DAGs, task schedules, dependencies, and distribution jobs to support enterprise data-workflow delivery.
+- Implemented and validated workflow changes across UAT and Production — including new tasks, schedule updates, and downstream dependency fixes — with zero unplanned rollback.
+- Used Linux, Shell/KSH, and Git for change development, testing, and deployment preparation, streamlining the release-validation cycle.
+- Supported multiple concurrent Airflow-based data distribution and extraction workflows for enterprise clients.
+
+</details>
+
+<details>
+<summary><b>Client Engagement: LBP — Data Engineering Support</b></summary>
+<br>
+
+- Developed and executed Formula Engine (FE) scripts to extract and validate metadata across **173,000+ ADO records**, including enabled/container status, validation scope, and reference data.
+- Used Linux and AWK/Gawk to process large FE outputs and generate structured class, validation-scope, and breakdown reports for stakeholder review.
+- Analyzed and reconciled UAT and Production datasets independently, identifying and documenting missing-attribute conditions for remediation.
+- Delivered structured analysis and reporting outputs that supported data-quality validation across the client's reference-data platform.
+
+</details>
+
+<details>
+<summary><b>Client Engagement: ZTS — Application Support</b></summary>
+<br>
+
+- Investigated and resolved application incidents through structured ticket triage, coordinating with technical teams to validate reported issues.
+- Performed troubleshooting across UAT and Production environments, supporting timely issue resolution within managed-services workflows.
+- Executed operational monitoring and validation tasks in line with managed-services governance and change-control processes.
+
+</details>
+
+> ✏️ *Fill in the exact start date and current status (or end date, if this has since wrapped up) — the source resume left this as a placeholder.*
 
 <p align="center">
   <img src="https://your-cicd-pipeline-gif-url-here.gif" width="55%"/>
