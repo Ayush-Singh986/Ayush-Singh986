@@ -14,7 +14,8 @@
   <img src="https://your-gif-or-image-url-here.gif" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
+<h1 align="center">Hi <img src="https://your-wave-gif-url-here.gif" width="30"/>, I'm Ayush Singh</h1>
+<!-- ^ swap in an animated waving-hand GIF (search "waving hand gif transparent" or record your own) -->
 <h3 align="center">DevOps & Cloud Infrastructure Engineer | AWS · CI/CD · Kubernetes</h3>
 
 <p align="center">
@@ -31,6 +32,10 @@
 
 ### 🚀 About Me
 
+<table>
+<tr>
+<td width="65%">
+
 Software engineer with a strong computer science foundation, specializing in **Java, Python, and JavaScript**, and focused on **DevOps, CI/CD automation, and AWS cloud infrastructure**. I design Infrastructure-as-Code solutions, build GitOps-driven deployment pipelines, and set up proactive monitoring — consistently landing double-digit efficiency and reliability gains across the systems I build.
 
 - 🔭 Currently working on: end-to-end GitOps deployments on **Amazon EKS**
@@ -38,6 +43,14 @@ Software engineer with a strong computer science foundation, specializing in **J
 - 🎓 B.Tech in Computer Science and Engineering — Sri Venkateshwara College of Engineering, Bengaluru (2021–2025), GPA 7.92/10
 - 💬 Ask me about: Terraform, Kubernetes, Jenkins/GitHub Actions CI-CD, Argo CD GitOps
 - 📫 Reach me: ayush054483@gmail.com
+
+</td>
+<td width="35%">
+  <img src="https://your-coding-gif-url-here.gif" width="100%"/>
+  <!-- swap in a "developer coding" GIF, e.g. from your own terminal recording -->
+</td>
+</tr>
+</table>
 
 ---
 
@@ -91,13 +104,18 @@ Software engineer with a strong computer science foundation, specializing in **J
 ### 💼 Experience
 
 **Managed Services Consultant — Application Support & DevOps**
-*[Company Name]* · [Month Year] – Present
+*[Gresham Technology]* · [JAN 2025] – Present
 - Monitored production services and triaged alerts using Grafana, reducing mean time to identify recurring incidents.
 - Investigated application and data anomalies across production, isolating root cause for cross-functional teams.
 - Built and modified Apache Airflow DAGs and task schedules to support enterprise data-workflow delivery.
 - Used Linux, Shell/KSH, and Git for change development, testing, and deployment validation across UAT and Production.
 
 > ✏️ *Fill in company name and exact dates before publishing — these were placeholders in your source resume.*
+
+<p align="center">
+  <img src="https://your-cicd-pipeline-gif-url-here.gif" width="55%"/>
+  <!-- a short looping CI/CD-pipeline or deployment-animation GIF works well as a section break here -->
+</p>
 
 ---
 
@@ -128,7 +146,6 @@ Software engineer with a strong computer science foundation, specializing in **J
 - Built auto-remediation logic to self-heal common failure conditions
 - **Stack:** AWS Lambda · API Gateway · DynamoDB · Terraform
 
-> ✏️ *Replace `REPLACE_WITH_REPO_LINK` with the actual repo URLs.*
 
 ---
 
@@ -167,6 +184,13 @@ Sri Venkateshwara College of Engineering, Bengaluru · 2021 – 2025 · GPA: 7.9
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh986&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
+<!-- Animated contribution "snake" - this is a GIF you generate yourself via GitHub Actions,
+     built from your own real commit history. Setup: https://github.com/Platane/snk
+     Once the action runs once, it publishes an SVG/GIF to a branch you reference below. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayush-singh986/ayush-singh986/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
+
 ---
 
 ### 📬 Connect with Me
@@ -177,3 +201,10 @@ Sri Venkateshwara College of Engineering, Bengaluru · 2021 – 2025 · GPA: 7.9
 </p>
 
 <p align="center"><i>"Automate everything that shouldn't need a human." 🚀</i></p>
+
+<p align="center">
+  <img src="https://your-thanks-for-visiting-gif-url-here.gif" width="40%"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayush-singh986&style=flat-square&color=2E9EF7" alt="profile views"/>
+</p>
