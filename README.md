@@ -110,7 +110,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 ### 💼 Experience
 
 **Managed Services Consultant — Application Support & DevOps**
-*Gresham Technology* · [2025] – Present
+*Gresham Technology* · [2026] – Present
 
 <details>
 <summary><b>Client Engagement: EXP — Application Support</b></summary>
