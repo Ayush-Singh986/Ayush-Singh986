@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+<defs>
+  <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0F172A"/>
+    <stop offset="50%" stop-color="#1D4ED8"/>
+    <stop offset="100%" stop-color="#06B6D4"/>
+  </linearGradient>
+</defs>
+
+<rect width="1200" height="180" rx="18" fill="#0D1117" stroke="#30363D"/>
+<text x="600" y="48" text-anchor="middle" fill="#58A6FF" font-family="Arial" font-size="22" font-weight="700">GitHub Activity Overview</text>
+<path d="M80 130 C180 110 230 135 320 100 S470 125 550 85 S700 120 790 78 S960 110 1120 60" fill="none" stroke="#38BDF8" stroke-width="4"/>
+<circle cx="320" cy="100" r="5" fill="#38BDF8"/><circle cx="550" cy="85" r="5" fill="#38BDF8"/><circle cx="790" cy="78" r="5" fill="#38BDF8"/><circle cx="1120" cy="60" r="5" fill="#38BDF8"/>
+<text x="600" y="158" text-anchor="middle" fill="#8B949E" font-family="Arial" font-size="13">Static visual • contribution data remains visible on your GitHub profile</text>
+
+</svg>

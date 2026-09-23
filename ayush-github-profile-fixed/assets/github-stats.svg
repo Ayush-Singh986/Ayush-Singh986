@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="180" viewBox="0 0 580 180">
+<defs>
+  <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0F172A"/>
+    <stop offset="50%" stop-color="#1D4ED8"/>
+    <stop offset="100%" stop-color="#06B6D4"/>
+  </linearGradient>
+</defs>
+
+<rect width="580" height="180" rx="18" fill="#0D1117" stroke="#30363D"/>
+<text x="290" y="45" text-anchor="middle" fill="#58A6FF" font-family="Arial" font-size="22" font-weight="700">GitHub Statistics</text>
+<text x="290" y="88" text-anchor="middle" fill="#E6EDF3" font-family="Arial" font-size="18">Repositories • Contributions • Activity</text>
+<text x="290" y="125" text-anchor="middle" fill="#8B949E" font-family="Arial" font-size="15">Live counters are intentionally omitted</text>
+<text x="290" y="150" text-anchor="middle" fill="#8B949E" font-family="Arial" font-size="15">to keep the profile fully self-hosted.</text>
+
+</svg>
