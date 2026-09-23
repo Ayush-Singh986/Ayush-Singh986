@@ -1,503 +1,270 @@
 <div align="center">
 
-<!-- HERO -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=DEVOPS+%26+CLOUD+ENGINEER;AWS+%7C+KUBERNETES+%7C+TERRAFORM;DEVSECOPS+%7C+GITOPS+%7C+OBSERVABILITY;AUTOMATE+%E2%80%A2+SECURE+%E2%80%A2+DEPLOY+%E2%80%A2+SCALE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DEVOPS+%26+CLOUD+ENGINEER;AUTOMATION+%7C+KUBERNETES+%7C+AWS;BUILDING+RELIABLE+PRODUCTION+SYSTEMS" />
 
 <br>
 
 # AYUSH SINGH
 
-### `DEVOPS & CLOUD ENGINEER`
+**Managed Services Consultant · DevOps Engineer**
 
-**Cloud Infrastructure · Automation · Kubernetes · DevSecOps**
+`AWS` `Kubernetes` `Terraform` `Jenkins` `Docker` `Airflow` `GitOps`
 
 <br>
 
 <a href="https://linkedin.com/in/ayush-singh-59469b310">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
 </a>
 &nbsp;
 <a href="https://github.com/ayush-singh986">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF"/>
 </a>
 &nbsp;
 <a href="mailto:ayush054483@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,linux,git,github,ansible,grafana,prometheus&theme=dark" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=100&section=header"/>
-
 </div>
 
 ---
 
-# `01` ── SYSTEM PROFILE
+## ABOUT
 
-```bash
-ayush@devops:~$ whoami
+I'm a **Managed Services Consultant / DevOps Engineer** working on production application support, workflow automation, cloud infrastructure and data operations.
 
-> DevOps & Cloud Engineer
-> Bengaluru, India
-> Building reliable cloud infrastructure
-> Automating software delivery
-> Securing CI/CD pipelines
-> Operating containerized workloads
-```
+My current work involves **Linux, Apache Airflow, Grafana, production monitoring, troubleshooting, data validation and UAT/Production change delivery**.
 
-<table>
-<tr>
-<td width="55%">
-
-### `ABOUT`
-
-I'm a **DevOps & Cloud Engineer** focused on cloud infrastructure, CI/CD automation, Kubernetes, GitOps and DevSecOps.
-
-Currently working with production systems while continuously expanding my expertise across **AWS, Linux, Apache Airflow, Kubernetes, Terraform, Jenkins and observability**.
-
-I enjoy turning manual infrastructure and deployment processes into **repeatable, automated and observable systems**.
-
-</td>
-
-<td width="45%">
+Alongside production engineering, I build and automate cloud environments using **AWS, Kubernetes, Terraform, Jenkins, Docker, GitOps and observability tooling**.
 
 ```yaml
-profile:
-  role: DevOps & Cloud Engineer
-  location: Bengaluru, India
+focus:
+  production:
+    - Application Support
+    - Monitoring & Troubleshooting
+    - Apache Airflow
+    - Data Operations
 
-cloud:
-  primary: AWS
+  cloud:
+    - AWS
+    - Kubernetes
+    - Terraform
+    - Docker
 
-containers:
-  runtime: Docker
-  orchestration: Kubernetes
+  delivery:
+    - Jenkins
+    - GitHub Actions
+    - Argo CD
+    - GitOps
 
-automation:
-  iac: Terraform
-  ci: Jenkins
-
-delivery:
-  gitops: Argo CD
-
-security:
-  scanning:
-    - SonarQube
-    - Trivy
-    - OWASP
-
-observability:
-  - Prometheus
-  - Grafana
-  - Loki
+  observability:
+    - Grafana
+    - Prometheus
+    - Structured Logging
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
-# `02` ── THE DEVOPS LOOP
+## PRODUCTION ENGINEERING
 
 <div align="center">
 
-```text
-        ┌────────┐
-        │  CODE  │
-        └───┬────┘
-            ↓
-        ┌────────┐
-        │ BUILD  │
-        └───┬────┘
-            ↓
-        ┌────────┐
-        │ SECURE │
-        └───┬────┘
-            ↓
-        ┌────────┐
-        │ DEPLOY │
-        └───┬────┘
-            ↓
-        ┌─────────┐
-        │ OBSERVE │
-        └───┬─────┘
-            ↓
-        ┌────────┐
-        │ SCALE  │
-        └───┬────┘
-            │
-            └──────────────→ CODE
-```
-
-### `AUTOMATE → SECURE → DEPLOY → OBSERVE → IMPROVE`
+<img src="https://skillicons.dev/icons?i=linux,aws,kubernetes,docker,terraform,jenkins,git&theme=dark"/>
 
 </div>
 
+### Managed Services · Gresham Technology
+
+**March 2026 — Present**
+
+Working across managed-services environments supporting production applications, workflows and data operations.
+
+**Production & Application Support**
+
+* Monitored production services and investigated application alerts using **Grafana, logs and alert-rule analysis**.
+* Investigated HTTP errors, validation failures and data anomalies across production environments.
+* Traced data issues across multiple processing layers and validated fixes in **UAT and Production**.
+* Supported production workflows by analysing processing logs and validating job completion.
+* Built an automated transaction-reconciliation monitoring solution to identify **missing and mismatched records** across data streams.
+
+**Airflow & Workflow Engineering**
+
+* Built and modified **Apache Airflow DAGs, task schedules, dependencies and distribution jobs**.
+* Created and validated tasks, dependencies, commands, sensors and schedules across **UAT and Production**.
+* Delivered workflow changes and dependency fixes with **zero unplanned rollback**.
+* Used Linux and Git for development, testing and deployment preparation.
+
+**Data Operations**
+
+* Developed Formula Engine scripts to extract and validate metadata across **173,000+ ADO records**.
+* Processed large outputs using Linux and generated structured validation reports.
+* Reconciled UAT and Production datasets and identified missing-attribute conditions.
+* Supported reference-data validation and production data-quality investigations.
+
 ---
 
-# `03` ── TECH STACK
+## PROJECTS
+
+### 01 · END-TO-END THREE-TIER APP — GITOPS ON AWS EKS
+
+Production-style cloud deployment built around infrastructure automation, CI/CD, GitOps and monitoring.
+
+```text
+Terraform
+    │
+    ▼
+AWS Infrastructure
+    │
+    ▼
+Jenkins ───────► Build / Deploy
+    │
+    ▼
+GitHub
+    │
+    ▼
+Argo CD
+    │
+    ▼
+Amazon EKS
+    │
+    ├──────────────► Prometheus
+    │
+    └──────────────► Grafana
+```
+
+**Results**
+
+| Area                           |        Outcome |
+| ------------------------------ | -------------: |
+| Infrastructure provisioning    | **30% faster** |
+| CI/CD deployment success       |        **95%** |
+| Manual deployment intervention |  **80% lower** |
+| Issue detection                | **40% faster** |
+
+`Terraform` `Jenkins` `Argo CD` `Prometheus` `Grafana` `Amazon EKS`
+
+---
+
+### 02 · GITOPS MICROSERVICES PLATFORM — AMAZON EKS AUTO MODE
+
+Five-microservice architecture deployed on Amazon EKS Auto Mode with automated infrastructure, container delivery and GitOps.
+
+```text
+Terraform
+    ↓
+AWS
+    ↓
+Docker
+    ↓
+GitHub Actions
+    ↓
+ECR
+    ↓
+Argo CD
+    ↓
+Amazon EKS Auto Mode
+    ↓
+Helm
+    ↓
+Prometheus + Structured Logging
+```
+
+**Results**
+
+| Area                    |          Outcome |
+| ----------------------- | ---------------: |
+| Provisioning efficiency | **40% improved** |
+| Platform uptime         |        **99.5%** |
+| Deployment speed        |   **50% faster** |
+| Incident resolution     |   **45% faster** |
+| Scalability             | **35% improved** |
+
+`Terraform` `Docker` `GitHub Actions` `Argo CD` `Helm` `Amazon EKS`
+
+---
+
+## TECHNOLOGY
 
 <div align="center">
 
-### ☁️ CLOUD
+### CLOUD
 
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
 
-`EC2` · `S3` · `VPC` · `IAM` · `Lambda` · `EKS` · `CloudWatch` · `Route 53`
+`EC2` · `S3` · `VPC` · `IAM` · `Lambda` · `EKS` · `RDS` · `DynamoDB` · `CloudWatch`
 
-<br>
+### DEVOPS
 
-### ⚙️ DEVOPS
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible,git,github&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible,git,github&theme=dark" />
+`Docker` · `Kubernetes` · `Terraform` · `Jenkins` · `Git` · `GitHub` · `Ansible`
 
-`Docker` · `Kubernetes` · `Terraform` · `Jenkins` · `Ansible` · `Git`
+### DELIVERY & GITOPS
 
-<br>
+`GitHub Actions` · `Argo CD` · `Helm` · `CI/CD` · `GitOps`
 
-### 🚀 DELIVERY
-
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
-
-`Argo CD` · `Helm` · `GitHub Actions` · `GitOps`
-
-<br>
-
-### 📊 OBSERVABILITY
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+### OBSERVABILITY
 
 `Prometheus` · `Grafana` · `Loki` · `ELK`
 
-<br>
+### SECURITY
 
-### 🔐 DEVSECOPS
+`SonarQube` · `Trivy` · `OWASP Dependency-Check`
 
-`SonarQube` · `Trivy` · `OWASP Dependency-Check` · `n8n` · `AI-assisted Triage`
+### ENGINEERING
 
-</div>
-
----
-
-# `04` ── PRODUCTION ENVIRONMENT
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=PRODUCTION+SYSTEMS+%E2%86%92+MONITORING+%E2%86%92+SUPPORT;LINUX+%7C+AIRFLOW+%7C+DATA+OPERATIONS;AUTOMATION+%7C+TROUBLESHOOTING+%7C+RELIABILITY" />
-
-```text
-                         PRODUCTION
-                              │
-              ┌───────────────┼───────────────┐
-              ▼               ▼               ▼
-           LINUX           AIRFLOW         DATA OPS
-              │               │               │
-              └───────────────┼───────────────┘
-                              ▼
-                     PRODUCTION / UAT
-                              │
-                              ▼
-                       MONITORING
-                              │
-                              ▼
-                        RESOLUTION
-```
-
-</div>
-
-### `Managed Services Consultant · 2026 — Present`
-
-`Linux` · `Shell/KSH` · `Apache Airflow` · `DAGs` · `Production Support` · `Data Analysis`
-
----
-
-# `05` ── CLOUD ARCHITECTURE
-
-<div align="center">
-
-```text
-                         ┌─────────────┐
-                         │   GITHUB    │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │   JENKINS   │
-                         └──────┬──────┘
-                                │
-                         ┌──────▼──────┐
-                         │    DOCKER   │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │   ARGO CD   │
-                         └──────┬──────┘
-                                │
-                                ▼
-                  ┌─────────────────────────┐
-                  │       AMAZON EKS        │
-                  │       KUBERNETES        │
-                  └────────────┬────────────┘
-                               │
-                ┌──────────────┼──────────────┐
-                ▼              ▼              ▼
-           ┌─────────┐   ┌──────────┐   ┌─────────┐
-           │   APP   │   │ PROMETHEUS│   │  LOKI   │
-           └─────────┘   └─────┬────┘   └────┬────┘
-                               │              │
-                               └──────┬───────┘
-                                      ▼
-                                  ┌───────┐
-                                  │GRAFANA│
-                                  └───────┘
-```
+`Linux` · `Shell Scripting` · `Apache Airflow` · `Data Operations`
 
 </div>
 
 ---
 
-# `06` ── DEVSECOPS PIPELINE
+## ENGINEERING APPROACH
 
 <div align="center">
 
-```text
-                     ┌──────────────┐
-                     │    SOURCE    │
-                     └──────┬───────┘
-                            ↓
-                     ┌──────────────┐
-                     │    JENKINS   │
-                     └──────┬───────┘
-                            ↓
-             ┌──────────────┼──────────────┐
-             ↓              ↓              ↓
-        ┌─────────┐    ┌─────────┐    ┌─────────┐
-        │SONARQUBE│    │  OWASP  │    │  TRIVY  │
-        └────┬────┘    └────┬────┘    └────┬────┘
-             └──────────────┼──────────────┘
-                            ↓
-                     ┌──────────────┐
-                     │     n8n      │
-                     └──────┬───────┘
-                            ↓
-                   ┌─────────────────┐
-                   │ AI-ASSISTED     │
-                   │ SECURITY TRIAGE │
-                   └────────┬────────┘
-                            ↓
-                  ┌─────────┴─────────┐
-                  ↓                   ↓
-              ┌────────┐          ┌───────┐
-              │NOTIFY  │          │ JIRA  │
-              └────────┘          └───────┘
-                            │
-                            ↓
-                     ┌──────────────┐
-                     │    ARGO CD   │
-                     └──────┬───────┘
-                            ↓
-                     ┌──────────────┐
-                     │  KUBERNETES  │
-                     └──────────────┘
-```
+### `AUTOMATE`
+
+Replace repetitive operational work with reliable workflows.
+
+  →  
+
+### `VERSION`
+
+Keep infrastructure and application changes traceable.
+
+  →  
+
+### `SECURE`
+
+Integrate security into the delivery lifecycle.
+
+  →  
+
+### `OBSERVE`
+
+Use metrics, logs and alerts to understand production behaviour.
+
+  →  
+
+### `IMPROVE`
+
+Continuously reduce manual effort and operational friction.
 
 </div>
 
 ---
 
-# `07` ── SELECTED SYSTEMS
-
-<table>
-<tr>
-<td width="50%">
-
-## ☁️ AWS EKS Platform
-
-**Infrastructure as Code**
-
-`Terraform`
-`Jenkins`
-`Docker`
-`Kubernetes`
-`Argo CD`
-`Prometheus`
-`Grafana`
-
-</td>
-
-<td width="50%">
-
-## 🔄 GitOps Platform
-
-**Continuous Delivery**
-
-`Amazon EKS`
-`Helm`
-`Argo CD`
-`GitOps`
-`Kubernetes`
-`Monitoring`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 🔐 DevSecOps Pipeline
-
-**Security Automation**
-
-`Jenkins`
-`SonarQube`
-`Trivy`
-`OWASP`
-`n8n`
-`AI-assisted Triage`
-
-</td>
-
-<td>
-
-## ⚡ Serverless Platform
-
-**Cloud Automation**
-
-`AWS Lambda`
-`API Gateway`
-`S3`
-`Cloud Automation`
-
-</td>
-</tr>
-</table>
-
----
-
-# `08` ── ENGINEERING PHILOSOPHY
+## GITHUB
 
 <div align="center">
 
-```text
-        ┌───────────────┐
-        │    MANUAL     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   AUTOMATE    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    VERSION    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     SECURE    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    DEPLOY     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    OBSERVE    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    IMPROVE    │
-        └───────────────┘
-```
-
-### `Infrastructure should be repeatable.`
-
-### `Deployments should be predictable.`
-
-### `Security should be continuous.`
-
-### `Systems should be observable.`
-
-</div>
-
----
-
-# `09` ── GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-singh986&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-singh986&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-singh986&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-singh986&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh986&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" height="165"/>
-
-</div>
-
----
-
-# `10` ── CONTRIBUTION MODE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayush-singh986/ayush-singh986/output/github-contribution-grid-snake.svg" width="95%"/>
-
-<br>
-
-```text
-       ╔══════════════════════════════════════════╗
-       ║                                          ║
-       ║       EVERY COMMIT MOVES THE SYSTEM     ║
-       ║                                          ║
-       ╚══════════════════════════════════════════╝
-```
-
-</div>
-
-> **Note:** The contribution snake requires a GitHub Action in the profile repository to generate the SVG.
-
----
-
-# `11` ── EDUCATION
-
-<div align="center">
-
-### B.Tech — Computer Science & Engineering
-
-**Sri Venkateshwara College of Engineering · Bengaluru**
-
-`2021 — 2025`   ·   `GPA 7.92 / 10`
-
-</div>
-
----
-
-# `12` ── DEVOPS MISSION
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  [ ✓ ] INFRASTRUCTURE AS CODE                      │
-│  [ ✓ ] CI/CD AUTOMATION                            │
-│  [ ✓ ] CONTAINERIZATION                            │
-│  [ ✓ ] KUBERNETES                                  │
-│  [ ✓ ] GITOPS                                      │
-│  [ ✓ ] SECURITY SCANNING                           │
-│  [ ✓ ] OBSERVABILITY                               │
-│  [ → ] CONTINUOUSLY LEARNING                       │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh986&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" height="165"/>
 
 </div>
 
@@ -505,16 +272,12 @@ observability:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,50:161B22,100:0D1117&height=120&section=footer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=BUILD.+AUTOMATE.+SECURE.+SHIP.;KEEP+LEARNING.+KEEP+BUILDING." />
-
-<br><br>
-
-`AWS` · `KUBERNETES` · `TERRAFORM` · `JENKINS` · `GITOPS` · `DEVSECOPS`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=BUILD+RELIABLE+SYSTEMS.;AUTOMATE+THE+REPETITIVE.;KEEP+LEARNING." />
 
 <br><br>
 
 **AYUSH SINGH**
+
+`DEVOPS` · `CLOUD` · `KUBERNETES` · `AUTOMATION`
 
 </div>
