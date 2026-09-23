@@ -8,6 +8,14 @@
 
 <p align="center">
   <img
+    src="https://raw.githubusercontent.com/slamb2k/devops-gifs/main/pDG9x8.gif"
+    width="720"
+    alt="Animated DevOps GIF"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=1&pause=999999&color=0EA5E9&center=true&vCenter=true&width=900&height=70&lines=AYUSH+SINGH"
     width="100%"
     alt="Ayush Singh - DevOps and Cloud Engineer"
@@ -73,6 +81,14 @@ Software engineer with a strong computer science foundation, specializing in Jav
   <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Containers-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitOps-Argo%20CD-EF7B4D?style=for-the-badge" alt="Argo CD" />
+</p>
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/PxHEc3YRy3cfRuNBVE/giphy.gif"
+    width="500"
+    alt="DevOps animation"
+  />
 </p>
 
 🛠️ Tech Stack
@@ -252,6 +268,14 @@ Stack: AWS Lambda · API Gateway · DynamoDB · Terraform
   <img src="https://img.shields.io/badge/8-PROMETHEUS%20%2B%20GRAFANA-F46800?style=for-the-badge" alt="Monitoring" />
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/slamb2k/devops-gifs/main/re3MmM.gif"
+    width="520"
+    alt="Animated DevOps pipeline reaction"
+  />
+</p>
+
 🔐 Security & Automation Flow
 
 Developer
@@ -360,6 +384,14 @@ This contribution graphic is loaded directly from the public GitHub contribution
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=999999&color=22C55E&center=true&vCenter=true&width=900&height=45&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B"
     width="100%"
     alt=""
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/KEQdjPTkOMX45EF2kq/giphy.gif"
+    width="430"
+    alt="Agile DevOps animation"
   />
 </p>
 
