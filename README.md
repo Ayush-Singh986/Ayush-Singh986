@@ -499,31 +499,28 @@ Software engineer with a strong computer science foundation, specializing in **J
 <!-- ======================= SNAKE CONTRIBUTION ======================= -->
 
 <h2 align="center">
-
-🐍 3D Snake Contribution Game
-
+  🐍 GitHub Contribution Snake
 </h2>
 
-
 <p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ayush-Singh986/Ayush-Singh986/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
 
-  <img
-    src="https://raw.githubusercontent.com/ayush-singh986/ayush-singh986/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub Contribution Snake Animation"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ayush-Singh986/Ayush-Singh986/gh-pages/github-contribution-grid-snake.svg"
+    />
 
+    <img
+      src="https://raw.githubusercontent.com/Ayush-Singh986/Ayush-Singh986/gh-pages/github-contribution-grid-snake.svg"
+      width="95%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
-
-
-<p align="center">
-
-  <i>
-    Watch the snake travel through my GitHub contribution graph 🐍
-  </i>
-
-</p>
-
 
 ---
 
