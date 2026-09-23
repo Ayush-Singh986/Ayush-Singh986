@@ -19,20 +19,14 @@
 <!-- ======================= HERO BANNER ======================= -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=AYUSH%20SINGH&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
-    width="100%"
-  />
+  <img src="./assets/hero.svg" width="100%" alt="Ayush Singh - DevOps and Cloud Engineer" />
 </p>
 
 
 <!-- ======================= TYPING INTRO ======================= -->
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Automating+Infrastructure+with+Terraform;Building+Reliable+CI%2FCD+Pipelines;Kubernetes+%7C+AWS+%7C+Docker+%7C+GitOps;Always+Shipping%2C+Always+Learning"
-    alt="Typing SVG"
-  />
+  <img src="./assets/typing.svg" width="750" alt="DevOps and Cloud Engineering" />
 </p>
 
 
@@ -74,22 +68,11 @@
 <!-- ======================= DEVOPS VISUAL ======================= -->
 
 <p align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,argocd,prometheus,grafana,linux,git,python,java,js"
-    width="90%"
-    alt="DevOps Technology Stack"
-  />
-
+  <img src="./assets/tech-stack.svg" width="90%" alt="DevOps Technology Stack" />
 </p>
 
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E40AF,100:0891B2&height=4"
-    width="100%"
-  />
-</p>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 
 <!-- ======================= ABOUT ME ======================= -->
@@ -101,11 +84,7 @@
 </h3>
 
 <p align="center">
-
-  <img
-    src="https://readme-typing-svg.demolab.com/?lines=Automating+infrastructure+with+Terraform;Building+resilient+CI%2FCD+pipelines;Orchestrating+containers+with+Kubernetes;Always+shipping%2C+always+learning&font=Fira+Code&center=true&width=600&height=45&color=2E9EF7&vCenter=true&size=20"
-  />
-
+  <img src="./assets/typing-about.svg" width="650" alt="DevOps engineering focus" />
 </p>
 
 
@@ -130,11 +109,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <td width="35%" align="center">
 
-<img
-  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-  width="100%"
-  alt="Developer Coding"
-/>
+<img src="./assets/coding.gif" width="100%" alt="Developer Coding" />
 
 <br/><br/>
 
@@ -259,14 +234,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 ---
 
-<p align="center">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E40AF,100:0891B2&height=4"
-    width="100%"
-  />
-
-</p>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 
 <!-- ======================= EXPERIENCE ======================= -->
@@ -331,18 +299,13 @@ Software engineer with a strong computer science foundation, specializing in **J
 </details>
 
 
-> ✏️ *Fill in the exact start date and current status (or end date, if this has since wrapped up) — the source resume left this as a placeholder.*
 
 
 <br>
 
 <p align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"
-    width="80%"
-    alt="Coding Animation"
-  />
+  <img src="./assets/coding.gif" width="80%" alt="Coding Animation" />
 
 </p>
 
@@ -353,7 +316,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 ## 📌 Featured Projects
 
-### 🔹 [End-to-End Three-Tier App Deployment — GitOps on AWS EKS](https://github.com/ayush-singh986/REPLACE_WITH_REPO_LINK)
+### 🔹 [End-to-End Three-Tier App Deployment — GitOps on AWS EKS](https://github.com/ayush-singh986)
 
 - Reduced infrastructure setup time by **30%** provisioning AWS resources with Terraform (IaC)
 - Built a Jenkins-driven CI/CD pipeline achieving a **95%** deployment success rate with zero downtime
@@ -362,7 +325,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 - **Stack:** Terraform · Jenkins · Argo CD · Prometheus · Grafana · AWS EKS
 
 
-### 🔹 [GitOps Microservices Platform — Amazon EKS Auto Mode](https://github.com/ayush-singh986/REPLACE_WITH_REPO_LINK)
+### 🔹 [GitOps Microservices Platform — Amazon EKS Auto Mode](https://github.com/ayush-singh986)
 
 - Designed a 5-microservice architecture; improved provisioning efficiency **40%** via Terraform automation
 - Maintained **99.5%** uptime running a Java/Go/Node.js microservices framework on EKS Auto Mode
@@ -392,14 +355,7 @@ Software engineer with a strong computer science foundation, specializing in **J
      3D DEVSECOPS CI/CD PIPELINE
 ============================================================ -->
 
-<p align="center">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,50:2563EB,100:0F172A&height=5"
-    width="100%"
-  />
-
-</p>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 
 <h2 align="center">
@@ -420,11 +376,7 @@ Software engineer with a strong computer science foundation, specializing in **J
     Then this image will automatically display in your README.
   -->
 
-  <img
-    src="https://raw.githubusercontent.com/ayush-singh986/ayush-singh986/main/assets/devsecops-3d.gif"
-    width="95%"
-    alt="Animated 3D DevSecOps CI/CD Pipeline"
-  />
+  <img src="./assets/devsecops-3d.gif" width="95%" alt="Animated 3D DevSecOps CI/CD Pipeline" />
 
 </p>
 
@@ -498,90 +450,53 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <!-- ======================= SNAKE CONTRIBUTION ======================= -->
 
-<h2 align="center">
-  🐍 GitHub Contribution Snake
-</h2>
+## 🐍 Contribution Snake
 
 <p align="center">
+
   <picture>
+
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ayush-Singh986/Ayush-Singh986/gh-pages/github-contribution-grid-snake-dark.svg"
+      srcset="./assets/snake/github-contribution-grid-snake-dark.svg"
     />
 
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ayush-Singh986/Ayush-Singh986/gh-pages/github-contribution-grid-snake.svg"
+      srcset="./assets/snake/github-contribution-grid-snake.svg"
     />
 
     <img
-      src="https://raw.githubusercontent.com/Ayush-Singh986/Ayush-Singh986/gh-pages/github-contribution-grid-snake.svg"
+      src="./assets/snake/github-contribution-grid-snake.svg"
       width="95%"
       alt="GitHub Contribution Snake"
     />
+
   </picture>
+
 </p>
 
----
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-<h2 align="center">
-
-📊 GitHub Analytics
-
-</h2>
-
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ayush-singh986&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-singh986&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-
+  <img src="./assets/github-stats.svg" width="49%" alt="GitHub Statistics" />
+  <img src="./assets/github-languages.svg" width="49%" alt="Top Languages" />
 </p>
-
 
 <p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh986&layout=compact&theme=tokyonight&hide_border=true"
-  />
-
+  <img src="./assets/github-streak.svg" width="70%" alt="GitHub Contribution Streak" />
 </p>
-
-
-<!-- ======================= ACTIVITY GRAPH ======================= -->
 
 <p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-singh986&theme=tokyo-night&hide_border=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-
+  <img src="./assets/github-activity.svg" width="95%" alt="GitHub Activity Overview" />
 </p>
-
-
-<!-- ======================= TROPHIES ======================= -->
 
 <p align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ayush-singh986&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-    width="90%"
-    alt="GitHub Profile Trophies"
-  />
-
+  <img src="./assets/github-trophies.svg" width="90%" alt="GitHub Achievements" />
 </p>
-
 
 ---
 
@@ -618,14 +533,7 @@ src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=
 
 <!-- ======================= FOOTER ======================= -->
 
-<p align="center">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=120&section=footer"
-    width="100%"
-  />
-
-</p>
+<p align="center"><img src="./assets/footer.svg" width="100%" alt="" /></p>
 
 
 <p align="center">
