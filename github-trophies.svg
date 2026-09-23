@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="150" viewBox="0 0 1100 150">
+<defs>
+  <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0F172A"/>
+    <stop offset="50%" stop-color="#1D4ED8"/>
+    <stop offset="100%" stop-color="#06B6D4"/>
+  </linearGradient>
+</defs>
+
+<rect width="1100" height="150" rx="18" fill="#0D1117" stroke="#30363D"/>
+<text x="550" y="48" text-anchor="middle" fill="#FBBF24" font-family="Arial" font-size="24" font-weight="700">🏆 GitHub Achievements</text>
+<text x="550" y="90" text-anchor="middle" fill="#E6EDF3" font-family="Arial" font-size="17">Build • Contribute • Review • Deploy • Learn</text>
+<text x="550" y="120" text-anchor="middle" fill="#8B949E" font-family="Arial" font-size="14">No third-party trophy service required.</text>
+
+</svg>
