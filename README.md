@@ -15,20 +15,17 @@
           └── snake.yml
 ============================================================ -->
 
-
 <!-- ======================= HERO BANNER ======================= -->
 
 <p align="center">
   <img src="./assets/hero.svg" width="100%" alt="Ayush Singh - DevOps and Cloud Engineer" />
 </p>
 
-
 <!-- ======================= TYPING INTRO ======================= -->
 
 <p align="center">
   <img src="./assets/typing.svg" width="750" alt="DevOps and Cloud Engineering" />
 </p>
-
 
 <!-- ======================= PROFILE VIEWS ======================= -->
 
@@ -38,7 +35,6 @@
     alt="Profile Views"
   />
 </p>
-
 
 <!-- ======================= SOCIAL LINKS ======================= -->
 
@@ -64,20 +60,17 @@
 
 </p>
 
-
 <!-- ======================= DEVOPS VISUAL ======================= -->
 
 <p align="center">
   <img src="./assets/tech-stack.svg" width="90%" alt="DevOps Technology Stack" />
 </p>
 
-
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
-
 
 <!-- ======================= ABOUT ME ======================= -->
 
-# 👋 Hi, I'm Ayush Singh
+👋 Hi, I'm Ayush Singh
 
 <h3 align="center">
   DevOps & Cloud Infrastructure Engineer | AWS · CI/CD · Kubernetes
@@ -87,23 +80,24 @@
   <img src="./assets/typing-about.svg" width="650" alt="DevOps engineering focus" />
 </p>
 
-
----
-
-## 🚀 About Me
+🚀 About Me
 
 <table>
 <tr>
 
 <td width="65%">
 
-Software engineer with a strong computer science foundation, specializing in **Java, Python, and JavaScript**, and focused on **DevOps, CI/CD automation, and AWS cloud infrastructure**. I design Infrastructure-as-Code solutions, build GitOps-driven deployment pipelines, and set up proactive monitoring — consistently landing double-digit efficiency and reliability gains across the systems I build.
+Software engineer with a strong computer science foundation, specializing in Java, Python, and JavaScript, and focused on DevOps, CI/CD automation, and AWS cloud infrastructure. I design Infrastructure-as-Code solutions, build GitOps-driven deployment pipelines, and set up proactive monitoring — consistently landing double-digit efficiency and reliability gains across the systems I build.
 
-- 🔭 Currently working on: end-to-end GitOps deployments on **Amazon EKS**
-- 🌱 Exploring: AI-assisted DevOps tooling (Amazon Q CLI, K8sGPT)
-- 🎓 B.Tech in Computer Science and Engineering — Sri Venkateshwara College of Engineering, Bengaluru (2021–2025), GPA 7.92/10
-- 💬 Ask me about: Terraform, Kubernetes, Jenkins/GitHub Actions CI-CD, Argo CD GitOps
-- 📫 Reach me: ayush054483@gmail.com
+🔭 Currently working on: end-to-end GitOps deployments on Amazon EKS
+
+🌱 Exploring: AI-assisted DevOps tooling (Amazon Q CLI, K8sGPT)
+
+🎓 B.Tech in Computer Science and Engineering — Sri Venkateshwara College of Engineering, Bengaluru (2021–2025), GPA 7.92/10
+
+💬 Ask me about: Terraform, Kubernetes, Jenkins/GitHub Actions CI-CD, Argo CD GitOps
+
+📫 Reach me: ayush054483@gmail.com
 
 </td>
 
@@ -114,19 +108,19 @@ Software engineer with a strong computer science foundation, specializing in **J
 <br/><br/>
 
 <img
-  src="https://img.shields.io/badge/DevOps-Automation-0EA5E9?style=for-the-badge"
+src="https://img.shields.io/badge/DevOps-Automation-0EA5E9?style=for-the-badge"
 />
 
 <br/>
 
 <img
-  src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
 />
 
 <br/>
 
 <img
-  src="https://img.shields.io/badge/Container-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
+src="https://img.shields.io/badge/Container-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
 />
 
 </td>
@@ -134,14 +128,11 @@ Software engineer with a strong computer science foundation, specializing in **J
 </tr>
 </table>
 
-
----
-
 <!-- ======================= TECH STACK ======================= -->
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
+☁️ Cloud & Infrastructure
 
 <p>
 
@@ -151,8 +142,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 </p>
 
-
-### 🐳 Containers & Orchestration
+🐳 Containers & Orchestration
 
 <p>
 
@@ -164,8 +154,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 </p>
 
-
-### 🔄 CI/CD & GitOps
+🔄 CI/CD & GitOps
 
 <p>
 
@@ -177,8 +166,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 </p>
 
-
-### 📊 Monitoring & Observability
+📊 Monitoring & Observability
 
 <p>
 
@@ -188,8 +176,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 </p>
 
-
-### 💻 Languages & Frameworks
+💻 Languages & Frameworks
 
 <p>
 
@@ -205,8 +192,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 </p>
 
-
-### ⚙️ Application & Data Operations
+⚙️ Application & Data Operations
 
 <p>
 
@@ -216,8 +202,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 </p>
 
-
-### 🔐 Security & Systems
+🔐 Security & Systems
 
 <p>
 
@@ -231,18 +216,14 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 </p>
 
-
----
-
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
-
 
 <!-- ======================= EXPERIENCE ======================= -->
 
-## 💼 Experience
+💼 Experience
 
-**Managed Services Consultant — Application Support & DevOps**  
-*Gresham Technology* · [2026] – Present
+Managed Services Consultant — Application Support & DevOps
+Gresham Technology · [2026] – Present
 
 <details>
 
@@ -250,13 +231,15 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <br>
 
-- Monitored production services and triaged application alerts using Grafana and log/alert-rule analysis, reducing mean time to identify recurring incidents across the environment.
-- Investigated application and data anomalies — including HTTP errors, validation failures, and suspect-data conditions — across production, isolating root cause for cross-functional teams.
-- Partnered with application and data teams to validate fixes across UAT and Production, ensuring changes met managed-services quality gates before release.
-- Tracked recurring production incidents end-to-end from detection through resolution, supporting consistent SLA adherence.
+Monitored production services and triaged application alerts using Grafana and log/alert-rule analysis, reducing mean time to identify recurring incidents across the environment.
+
+Investigated application and data anomalies — including HTTP errors, validation failures, and suspect-data conditions — across production, isolating root cause for cross-functional teams.
+
+Partnered with application and data teams to validate fixes across UAT and Production, ensuring changes met managed-services quality gates before release.
+
+Tracked recurring production incidents end-to-end from detection through resolution, supporting consistent SLA adherence.
 
 </details>
-
 
 <details>
 
@@ -264,13 +247,15 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <br>
 
-- Built and modified Apache Airflow DAGs, task schedules, dependencies, and distribution jobs to support enterprise data-workflow delivery.
-- Implemented and validated workflow changes across UAT and Production — including new tasks, schedule updates, and downstream dependency fixes — with zero unplanned rollback.
-- Used Linux, Shell/KSH, and Git for change development, testing, and deployment preparation, streamlining the release-validation cycle.
-- Supported multiple concurrent Airflow-based data distribution and extraction workflows for enterprise clients.
+Built and modified Apache Airflow DAGs, task schedules, dependencies, and distribution jobs to support enterprise data-workflow delivery.
+
+Implemented and validated workflow changes across UAT and Production — including new tasks, schedule updates, and downstream dependency fixes — with zero unplanned rollback.
+
+Used Linux, Shell/KSH, and Git for change development, testing, and deployment preparation, streamlining the release-validation cycle.
+
+Supported multiple concurrent Airflow-based data distribution and extraction workflows for enterprise clients.
 
 </details>
-
 
 <details>
 
@@ -278,13 +263,15 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <br>
 
-- Developed and executed Formula Engine (FE) scripts to extract and validate metadata across **173,000+ ADO records**, including enabled/container status, validation scope, and reference data.
-- Used Linux and AWK/Gawk to process large FE outputs and generate structured class, validation-scope, and breakdown reports for stakeholder review.
-- Analyzed and reconciled UAT and Production datasets independently, identifying and documenting missing-attribute conditions for remediation.
-- Delivered structured analysis and reporting outputs that supported data-quality validation across the client's reference-data platform.
+Developed and executed Formula Engine (FE) scripts to extract and validate metadata across 173,000+ ADO records, including enabled/container status, validation scope, and reference data.
+
+Used Linux and AWK/Gawk to process large FE outputs and generate structured class, validation-scope, and breakdown reports for stakeholder review.
+
+Analyzed and reconciled UAT and Production datasets independently, identifying and documenting missing-attribute conditions for remediation.
+
+Delivered structured analysis and reporting outputs that supported data-quality validation across the client's reference-data platform.
 
 </details>
-
 
 <details>
 
@@ -292,12 +279,13 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <br>
 
-- Investigated and resolved application incidents through structured ticket triage, coordinating with technical teams to validate reported issues.
-- Performed troubleshooting across UAT and Production environments, supporting timely issue resolution within managed-services workflows.
-- Executed operational monitoring and validation tasks in line with managed-services governance and change-control processes.
+Investigated and resolved application incidents through structured ticket triage, coordinating with technical teams to validate reported issues.
+
+Performed troubleshooting across UAT and Production environments, supporting timely issue resolution within managed-services workflows.
+
+Executed operational monitoring and validation tasks in line with managed-services governance and change-control processes.
 
 </details>
-
 
 
 
@@ -309,47 +297,51 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 </p>
 
-
----
-
 <!-- ======================= PROJECTS ======================= -->
 
-## 📌 Featured Projects
+📌 Featured Projects
 
-### 🔹 [End-to-End Three-Tier App Deployment — GitOps on AWS EKS](https://github.com/ayush-singh986)
+🔹 End-to-End Three-Tier App Deployment — GitOps on AWS EKS
 
-- Reduced infrastructure setup time by **30%** provisioning AWS resources with Terraform (IaC)
-- Built a Jenkins-driven CI/CD pipeline achieving a **95%** deployment success rate with zero downtime
-- Cut manual deployment intervention by **80%** integrating Argo CD for GitOps sync between GitHub and EKS
-- Reduced issue detection time by **40%** with Prometheus + Grafana monitoring
-- **Stack:** Terraform · Jenkins · Argo CD · Prometheus · Grafana · AWS EKS
+Reduced infrastructure setup time by 30% provisioning AWS resources with Terraform (IaC)
 
+Built a Jenkins-driven CI/CD pipeline achieving a 95% deployment success rate with zero downtime
 
-### 🔹 [GitOps Microservices Platform — Amazon EKS Auto Mode](https://github.com/ayush-singh986)
+Cut manual deployment intervention by 80% integrating Argo CD for GitOps sync between GitHub and EKS
 
-- Designed a 5-microservice architecture; improved provisioning efficiency **40%** via Terraform automation
-- Maintained **99.5%** uptime running a Java/Go/Node.js microservices framework on EKS Auto Mode
-- Accelerated deployment speed **50%** using Docker + GitHub Actions CI/CD + automated ECR builds via Argo CD
-- Improved incident resolution time **45%** through Prometheus monitoring and structured logging
-- Increased scalability **35%** with Helm charts for optimized resource allocation
-- **Stack:** Terraform · Docker · GitHub Actions · Argo CD · Helm · Amazon EKS
+Reduced issue detection time by 40% with Prometheus + Grafana monitoring
 
+Stack: Terraform · Jenkins · Argo CD · Prometheus · Grafana · AWS EKS
 
-### 🔹 DevSecOps Netflix Clone Deployment
+🔹 GitOps Microservices Platform — Amazon EKS Auto Mode
 
-- CI/CD pipeline with Jenkins, containerized with Docker and deployed on Kubernetes
-- Integrated Trivy for container vulnerability scanning and Prometheus/Grafana for monitoring
-- **Stack:** Jenkins · Docker · Kubernetes · Trivy · Prometheus · Grafana
+Designed a 5-microservice architecture; improved provisioning efficiency 40% via Terraform automation
 
+Maintained 99.5% uptime running a Java/Go/Node.js microservices framework on EKS Auto Mode
 
-### 🔹 Serverless Blog App with Auto-Remediation
+Accelerated deployment speed 50% using Docker + GitHub Actions CI/CD + automated ECR builds via Argo CD
 
-- Serverless architecture on AWS Lambda + API Gateway + DynamoDB, provisioned via Terraform
-- Built auto-remediation logic to self-heal common failure conditions
-- **Stack:** AWS Lambda · API Gateway · DynamoDB · Terraform
+Improved incident resolution time 45% through Prometheus monitoring and structured logging
 
+Increased scalability 35% with Helm charts for optimized resource allocation
 
----
+Stack: Terraform · Docker · GitHub Actions · Argo CD · Helm · Amazon EKS
+
+🔹 DevSecOps Netflix Clone Deployment
+
+CI/CD pipeline with Jenkins, containerized with Docker and deployed on Kubernetes
+
+Integrated Trivy for container vulnerability scanning and Prometheus/Grafana for monitoring
+
+Stack: Jenkins · Docker · Kubernetes · Trivy · Prometheus · Grafana
+
+🔹 Serverless Blog App with Auto-Remediation
+
+Serverless architecture on AWS Lambda + API Gateway + DynamoDB, provisioned via Terraform
+
+Built auto-remediation logic to self-heal common failure conditions
+
+Stack: AWS Lambda · API Gateway · DynamoDB · Terraform
 
 <!-- ============================================================
      3D DEVSECOPS CI/CD PIPELINE
@@ -357,13 +349,11 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-
 <h2 align="center">
 
 ⚙️ 3D DevSecOps CI/CD Pipeline
 
 </h2>
-
 
 <p align="center">
 
@@ -380,102 +370,95 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 </p>
 
-
 <!-- ======================= PIPELINE LABELS ======================= -->
 
 <p align="center">
 
-  <img
-    src="https://img.shields.io/badge/CODE-Developer_Commit-0F172A?style=for-the-badge"
-  />
+<img
+ src="https://img.shields.io/badge/CODE-Developer_Commit-0F172A?style=for-the-badge"
+/>
 
-  <img
-    src="https://img.shields.io/badge/GIT-Source_Control-1D4ED8?style=for-the-badge"
-  />
+<img
+ src="https://img.shields.io/badge/GIT-Source_Control-1D4ED8?style=for-the-badge"
+/>
 
-  <img
-    src="https://img.shields.io/badge/JENKINS-CI%2FCD-D24939?style=for-the-badge"
-  />
+<img
+ src="https://img.shields.io/badge/JENKINS-CI%2FCD-D24939?style=for-the-badge"
+/>
 
-  <img
-    src="https://img.shields.io/badge/SECURITY-SonarQube_%2B_Trivy-7C3AED?style=for-the-badge"
-  />
+<img
+ src="https://img.shields.io/badge/SECURITY-SonarQube_%2B_Trivy-7C3AED?style=for-the-badge"
+/>
 
 </p>
-
 
 <p align="center">
 
-  <img
-    src="https://img.shields.io/badge/DOCKER-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-  />
+<img
+ src="https://img.shields.io/badge/DOCKER-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+/>
 
-  <img
-    src="https://img.shields.io/badge/ARGO_CD-GitOps-EF7B4D?style=for-the-badge"
-  />
+<img
+ src="https://img.shields.io/badge/ARGO_CD-GitOps-EF7B4D?style=for-the-badge"
+/>
 
-  <img
-    src="https://img.shields.io/badge/KUBERNETES-Deployment-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
-  />
+<img
+ src="https://img.shields.io/badge/KUBERNETES-Deployment-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
+/>
 
-  <img
-    src="https://img.shields.io/badge/MONITORING-Prometheus_%2B_Grafana-F46800?style=for-the-badge"
-  />
+<img
+ src="https://img.shields.io/badge/MONITORING-Prometheus_%2B_Grafana-F46800?style=for-the-badge"
+/>
 
 </p>
-
 
 <p align="center">
 
-`CODE`
+CODE
 →
-`GIT`
+GIT
 →
-`JENKINS`
+JENKINS
 →
-`SONARQUBE + TRIVY`
+SONARQUBE + TRIVY
 →
-`DOCKER`
+DOCKER
 →
-`ARGO CD`
+ARGO CD
 →
-`KUBERNETES`
+KUBERNETES
 →
-`PROMETHEUS + GRAFANA`
+PROMETHEUS + GRAFANA
 
 </p>
-
-
----
 
 <!-- ======================= SNAKE CONTRIBUTION ======================= -->
 
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
 
   <picture>
 
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/snake/github-contribution-grid-snake-dark.svg"
-    />
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="./assets/snake/github-contribution-grid-snake-dark.svg"
+/>
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./assets/snake/github-contribution-grid-snake.svg"
-    />
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="./assets/snake/github-contribution-grid-snake.svg"
+/>
 
-    <img
-      src="./assets/snake/github-contribution-grid-snake.svg"
-      width="95%"
-      alt="GitHub Contribution Snake"
-    />
+<img
+  src="./assets/snake/github-contribution-grid-snake.svg"
+  width="95%"
+  alt="GitHub Contribution Snake"
+/>
 
   </picture>
 
 </p>
-
 
 <!-- ======================= GITHUB STATS ======================= -->
 
@@ -498,8 +481,6 @@ Software engineer with a strong computer science foundation, specializing in **J
   <img src="./assets/github-trophies.svg" width="90%" alt="GitHub Achievements" />
 </p>
 
----
-
 <!-- ======================= CONNECT ======================= -->
 
 <h2 align="center">
@@ -507,7 +488,6 @@ Software engineer with a strong computer science foundation, specializing in **J
 🤝 Let's Connect
 
 </h2>
-
 
 <p align="center">
 
@@ -519,7 +499,6 @@ src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&lo
 
 </a>
 
-
 <a href="mailto:ayush054483@gmail.com">
 
 <img
@@ -530,14 +509,12 @@ src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=
 
 </p>
 
-
 <!-- ======================= FOOTER ======================= -->
 
 <p align="center"><img src="./assets/footer.svg" width="100%" alt="" /></p>
 
-
 <p align="center">
 
-  <b>⚡ Automate · Secure · Deploy · Monitor · Repeat ⚡</b>
+<b>⚡ Automate · Secure · Deploy · Monitor · Repeat ⚡</b>
 
 </p>
