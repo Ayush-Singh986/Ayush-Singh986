@@ -302,45 +302,72 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <p align="center">
 
+## ⚙️ DevSecOps CI/CD Pipeline
+
+<p align="center">
+
 ```text
-        ┌──────────┐
-        │   CODE   │
-        └────┬─────┘
-             │
-             ▼
-       ┌───────────┐
-       │    GIT    │
-       └─────┬─────┘
-             │
-             ▼
-       ┌───────────┐
-       │  JENKINS  │
-       └─────┬─────┘
-             │
-       ┌─────┴─────┐
-       ▼           ▼
-   ┌───────┐   ┌────────┐
-   │SONARQ │   │ TRIVY  │
-   └───┬───┘   └───┬────┘
-       │           │
-       └─────┬─────┘
-             ▼
-       ┌───────────┐
-       │   DOCKER  │
-       └─────┬─────┘
-             │
-             ▼
-       ┌───────────┐
-       │   ARGO CD │
-       └─────┬─────┘
-             │
-             ▼
-       ┌───────────┐
-       │ KUBERNETES│
-       └─────┬─────┘
-             │
-       ┌─────┴─────┐
-       ▼           ▼
-  ┌──────────┐ ┌─────────┐
-  │PROMETHEUS│ │ GRAFANA │
-  └──────────┘ └─────────┘
+                         ┌──────────────────────┐
+                         │      👨‍💻 CODE        │
+                         │   Developer Commit   │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │       🔀 GIT         │
+                         │  Source Management   │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                    ┌───────────────────────────────┐
+                    │          🔧 JENKINS           │
+                    │       CI/CD Automation        │
+                    └──────────────┬────────────────┘
+                                   │
+                         ┌─────────┴─────────┐
+                         │                   │
+                         ▼                   ▼
+              ┌──────────────────┐  ┌──────────────────┐
+              │   🔍 SONARQUBE   │  │    🛡️ TRIVY      │
+              │ Code Quality &   │  │ Vulnerability    │
+              │ Security Scan    │  │    Scanning      │
+              └─────────┬────────┘  └─────────┬────────┘
+                        │                     │
+                        └──────────┬──────────┘
+                                   │
+                                   ▼
+                         ┌──────────────────────┐
+                         │      🐳 DOCKER       │
+                         │   Build & Container  │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │      🚀 ARGO CD      │
+                         │    GitOps Delivery   │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │   ☸️ KUBERNETES      │
+                         │   Application Deploy │
+                         └──────────┬───────────┘
+                                    │
+                          ┌─────────┴─────────┐
+                          │                   │
+                          ▼                   ▼
+               ┌──────────────────┐  ┌──────────────────┐
+               │   📈 PROMETHEUS  │  │   📊 GRAFANA     │
+               │     Metrics &    │  │   Dashboards &   │
+               │     Monitoring   │  │   Visualization  │
+               └──────────────────┘  └──────────────────┘
+```
+
+</p>
+
+<p align="center">
+
+`CODE` → `GIT` → `JENKINS` → `SECURITY` → `DOCKER` → `ARGO CD` → `KUBERNETES` → `MONITORING`
+
+</p>
+
