@@ -201,17 +201,6 @@ Sri Venkateshwara College of Engineering, Bengaluru · 2021 – 2025 · GPA: 7.9
 
 ---
 
-### 📜 Certifications
-<!-- Optional: uncomment and fill in any you hold -->
-<!--
-- AWS Certified Solutions Architect – Associate
-- Certified Kubernetes Administrator (CKA)
-- HashiCorp Certified: Terraform Associate
--->
-*Add AWS / CKA / CKAD / Terraform Associate certifications here once earned — strong ATS and recruiter signal for DevOps roles.*
-
----
-
 ### 🌟 Extracurricular
 
 - Final-year project shortlisted in **Smart India Hackathon** (national-level government innovation competition)
