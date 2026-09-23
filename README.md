@@ -9,7 +9,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/slamb2k/devops-gifs/main/pDG9x8.gif"
-    width="720"
+    width="320"
     alt="Animated DevOps GIF"
   />
 </p>
