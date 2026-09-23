@@ -1,36 +1,87 @@
 <!-- ============================================================
   GitHub Profile README for github.com/ayush-singh986
-  To use: create a repo named EXACTLY "ayush-singh986" (same as
-  your username), add this as README.md, and it renders on
-  your GitHub profile page automatically.
+  To use: create a repo named EXACTLY "ayush-singh986"
+  and add this as README.md.
 ============================================================ -->
 
-<!-- BANNER / GIF -->
-<!--
-  OPTION A (recommended, no upload needed): animated typing banner via readme-typing-svg
-  OPTION B (your own GIF): upload a gif to a repo (e.g. /assets/banner.gif) and swap the src below
--->
-<p align="center">
-  <img src="https://your-gif-or-image-url-here.gif" alt="Banner" width="100%"/>
-</p>
-
-<h1 align="center">Hi <img src="https://your-wave-gif-url-here.gif" width="30"/>, I'm Ayush Singh</h1>
-<!-- ^ swap in an animated waving-hand GIF (search "waving hand gif transparent" or record your own) -->
-<h3 align="center">DevOps & Cloud Infrastructure Engineer | AWS · CI/CD · Kubernetes</h3>
+<!-- ======================= HERO BANNER ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Automating+infrastructure+with+Terraform;Building+resilient+CI%2FCD+pipelines;Orchestrating+containers+with+Kubernetes;Always+shipping,+always+learning&font=Fira%20Code&center=true&width=440&height=45&color=2E9EF7&vCenter=true&size=22"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=AYUSH%20SINGH&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayush-singh-59469b310"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ayush054483@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+919219064430"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Automating+Infrastructure+with+Terraform;Building+Reliable+CI%2FCD+Pipelines;Kubernetes+%7C+AWS+%7C+Docker+%7C+GitOps;Always+Shipping%2C+Always+Learning"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=ayush-singh986&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ayush-singh-59469b310">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayush054483@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+919219064430">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+<!-- ======================= 3D DEVOPS VISUAL ======================= -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/screenshot.gif"
+    width="1"
+    height="1"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,argocd,prometheus,grafana,linux,git,python,java,js"
+    width="90%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E40AF,100:0891B2&height=4"
+    width="100%"
+  />
+</p>
+
+---
+
+# 👋 Hi, I'm Ayush Singh
+
+<h3 align="center">
+  DevOps & Cloud Infrastructure Engineer | AWS · CI/CD · Kubernetes
+</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Automating+infrastructure+with+Terraform;Building+resilient+CI%2FCD+pipelines;Orchestrating+containers+with+Kubernetes;Always+shipping%2C+always+learning&font=Fira+Code&center=true&width=600&height=45&color=2E9EF7&vCenter=true&size=20"
+  />
+</p>
+
+---
+
+## 🚀 About Me
 
 <table>
 <tr>
@@ -45,75 +96,110 @@ Software engineer with a strong computer science foundation, specializing in **J
 - 📫 Reach me: ayush054483@gmail.com
 
 </td>
-<td width="35%">
-  <img src="https://your-coding-gif-url-here.gif" width="100%"/>
-  <!-- swap in a "developer coding" GIF, e.g. from your own terminal recording -->
+
+<td width="35%" align="center">
+
+<img
+  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+  width="100%"
+  alt="Developer Coding"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/DevOps-Automation-0EA5E9?style=for-the-badge"
+  />
+<br/>
+<img
+  src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+  />
+<br/>
+<img
+  src="https://img.shields.io/badge/Container-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
+  />
+
 </td>
 </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Cloud & IaC**
+### ☁️ Cloud & Infrastructure
+
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
-**Containers & Orchestration**
+### 🐳 Containers & Orchestration
+
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </p>
 
-**CI/CD & GitOps**
+### 🔄 CI/CD & GitOps
+
 <p>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 </p>
 
-**Monitoring & Observability**
+### 📊 Monitoring & Observability
+
 <p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
-**Languages & Frameworks**
+### 💻 Languages & Frameworks
+
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-**Application & Data Operations**
+### ⚙️ Application & Data Operations
+
 <p>
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-**Security & Systems**
+### 🔐 Security & Systems
+
 <p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 💼 Experience
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E40AF,100:0891B2&height=4"
+    width="100%"
+  />
+</p>
 
-**Managed Services Consultant — Application Support & DevOps**
+## 💼 Experience
+
+**Managed Services Consultant — Application Support & DevOps**  
 *Gresham Technology* · [2026] – Present
 
 <details>
 <summary><b>Client Engagement: EXP — Application Support</b></summary>
+
 <br>
 
 - Monitored production services and triaged application alerts using Grafana and log/alert-rule analysis, reducing mean time to identify recurring incidents across the environment.
@@ -125,6 +211,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <details>
 <summary><b>Client Engagement: BNS — Data Operations</b></summary>
+
 <br>
 
 - Built and modified Apache Airflow DAGs, task schedules, dependencies, and distribution jobs to support enterprise data-workflow delivery.
@@ -136,6 +223,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <details>
 <summary><b>Client Engagement: LBP — Data Engineering Support</b></summary>
+
 <br>
 
 - Developed and executed Formula Engine (FE) scripts to extract and validate metadata across **173,000+ ADO records**, including enabled/container status, validation scope, and reference data.
@@ -147,6 +235,7 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 <details>
 <summary><b>Client Engagement: ZTS — Application Support</b></summary>
+
 <br>
 
 - Investigated and resolved application incidents through structured ticket triage, coordinating with technical teams to validate reported issues.
@@ -157,23 +246,30 @@ Software engineer with a strong computer science foundation, specializing in **J
 
 > ✏️ *Fill in the exact start date and current status (or end date, if this has since wrapped up) — the source resume left this as a placeholder.*
 
+<br>
+
 <p align="center">
-  <img src="https://your-cicd-pipeline-gif-url-here.gif" width="55%"/>
-  <!-- a short looping CI/CD-pipeline or deployment-animation GIF works well as a section break here -->
+  <img
+    src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"
+    width="80%"
+    alt="Coding Animation"
+  />
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-#### 🔹 [End-to-End Three-Tier App Deployment — GitOps on AWS EKS](https://github.com/ayush-singh986/REPLACE_WITH_REPO_LINK)
+### 🔹 [End-to-End Three-Tier App Deployment — GitOps on AWS EKS](https://github.com/ayush-singh986/REPLACE_WITH_REPO_LINK)
+
 - Reduced infrastructure setup time by **30%** provisioning AWS resources with Terraform (IaC)
 - Built a Jenkins-driven CI/CD pipeline achieving a **95%** deployment success rate with zero downtime
 - Cut manual deployment intervention by **80%** integrating Argo CD for GitOps sync between GitHub and EKS
 - Reduced issue detection time by **40%** with Prometheus + Grafana monitoring
 - **Stack:** Terraform · Jenkins · Argo CD · Prometheus · Grafana · AWS EKS
 
-#### 🔹 [GitOps Microservices Platform — Amazon EKS Auto Mode](https://github.com/ayush-singh986/REPLACE_WITH_REPO_LINK)
+### 🔹 [GitOps Microservices Platform — Amazon EKS Auto Mode](https://github.com/ayush-singh986/REPLACE_WITH_REPO_LINK)
+
 - Designed a 5-microservice architecture; improved provisioning efficiency **40%** via Terraform automation
 - Maintained **99.5%** uptime running a Java/Go/Node.js microservices framework on EKS Auto Mode
 - Accelerated deployment speed **50%** using Docker + GitHub Actions CI/CD + automated ECR builds via Argo CD
@@ -181,64 +277,70 @@ Software engineer with a strong computer science foundation, specializing in **J
 - Increased scalability **35%** with Helm charts for optimized resource allocation
 - **Stack:** Terraform · Docker · GitHub Actions · Argo CD · Helm · Amazon EKS
 
-#### 🔹 DevSecOps Netflix Clone Deployment
+### 🔹 DevSecOps Netflix Clone Deployment
+
 - CI/CD pipeline with Jenkins, containerized with Docker and deployed on Kubernetes
 - Integrated Trivy for container vulnerability scanning and Prometheus/Grafana for monitoring
 - **Stack:** Jenkins · Docker · Kubernetes · Trivy · Prometheus · Grafana
 
-#### 🔹 Serverless Blog App with Auto-Remediation
+### 🔹 Serverless Blog App with Auto-Remediation
+
 - Serverless architecture on AWS Lambda + API Gateway + DynamoDB, provisioned via Terraform
 - Built auto-remediation logic to self-heal common failure conditions
 - **Stack:** AWS Lambda · API Gateway · DynamoDB · Terraform
 
-
 ---
 
-### 🎓 Education
-
-**B.Tech, Computer Science and Engineering**
-Sri Venkateshwara College of Engineering, Bengaluru · 2021 – 2025 · GPA: 7.92/10.0
-
----
-
-### 🌟 Extracurricular
-
-- Final-year project shortlisted in **Smart India Hackathon** (national-level government innovation competition)
-- Led weekly tech-circle sessions on infrastructure automation and cloud-native development for 15+ students, increasing peer-group technical knowledge by ~30%
-
----
-
-### 📊 GitHub Stats
+<!-- ======================= DEVOPS PIPELINE VISUAL ======================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-singh986&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-singh986&theme=tokyonight" height="165"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,50:2563EB,100:0F172A&height=5"
+    width="100%"
+  />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh986&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<!-- Animated contribution "snake" - this is a GIF you generate yourself via GitHub Actions,
-     built from your own real commit history. Setup: https://github.com/Platane/snk
-     Once the action runs once, it publishes an SVG/GIF to a branch you reference below. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayush-singh986/ayush-singh986/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
-
----
-
-### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayush-singh-59469b310"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ayush054483@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
 
-<p align="center"><i>"Automate everything that shouldn't need a human." 🚀</i></p>
-
-<p align="center">
-  <img src="https://your-thanks-for-visiting-gif-url-here.gif" width="40%"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayush-singh986&style=flat-square&color=2E9EF7" alt="profile views"/>
-</p>
+```text
+        ┌──────────┐
+        │   CODE   │
+        └────┬─────┘
+             │
+             ▼
+       ┌───────────┐
+       │    GIT    │
+       └─────┬─────┘
+             │
+             ▼
+       ┌───────────┐
+       │  JENKINS  │
+       └─────┬─────┘
+             │
+       ┌─────┴─────┐
+       ▼           ▼
+   ┌───────┐   ┌────────┐
+   │SONARQ │   │ TRIVY  │
+   └───┬───┘   └───┬────┘
+       │           │
+       └─────┬─────┘
+             ▼
+       ┌───────────┐
+       │   DOCKER  │
+       └─────┬─────┘
+             │
+             ▼
+       ┌───────────┐
+       │   ARGO CD │
+       └─────┬─────┘
+             │
+             ▼
+       ┌───────────┐
+       │ KUBERNETES│
+       └─────┬─────┘
+             │
+       ┌─────┴─────┐
+       ▼           ▼
+  ┌──────────┐ ┌─────────┐
+  │PROMETHEUS│ │ GRAFANA │
+  └──────────┘ └─────────┘
