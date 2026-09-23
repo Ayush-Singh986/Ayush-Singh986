@@ -1,194 +1,358 @@
 <!-- ============================================================
      AYUSH SINGH — DEVOPS / CLOUD ENGINEER
-     Professional GitHub Profile README
+     Premium GitHub Profile
 ============================================================ -->
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/slamb2k/devops-gifs/main/pDG9x8.gif"
-    width="110"
-    alt="DevOps Engineering"
-  />
-</p>
+<div align="center">
 
-<h1 align="center">Ayush Singh</h1>
+<img src="https://raw.githubusercontent.com/slamb2k/devops-gifs/main/pDG9x8.gif" width="140">
 
-<p align="center">
-  <b>DevOps & Cloud Engineer</b>
-</p>
+# AYUSH SINGH
 
-<p align="center">
-  AWS · Kubernetes · Docker · Terraform · Jenkins · GitOps
-</p>
+### `DEVOPS & CLOUD ENGINEER`
 
-<p align="center">
-  <a href="https://linkedin.com/in/ayush-singh-59469b310">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:ayush054483@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/ayush-singh986">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-</p>
+**AWS • Kubernetes • Docker • Terraform • Jenkins • GitOps • DevSecOps**
 
----
+<br>
 
-## About
+<a href="https://linkedin.com/in/ayush-singh-59469b310">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:ayush054483@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/ayush-singh986">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-DevOps and Cloud Engineer focused on building reliable infrastructure, automated CI/CD pipelines, containerized applications, and cloud-native deployment workflows.
+<br><br>
 
-Currently working with production application support, data operations, Airflow workflows, Linux, and cloud-oriented DevOps practices.
+<img src="https://komarev.com/ghpvc/?username=ayush-singh986&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS">
 
-**Core focus:** Infrastructure as Code · CI/CD · Kubernetes · GitOps · Cloud Automation · DevSecOps · Observability
+</div>
 
 ---
 
-## Professional Experience
+<div align="center">
 
-### Managed Services Consultant — Application Support & DevOps
-**Gresham Technology · 2026 – Present**
+### `BUILD → AUTOMATE → SECURE → DEPLOY → OBSERVE`
 
-Working across application support, data operations, and DevOps-oriented environments.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Infrastructure+as+Code;Cloud-Native+Architecture;GitOps+Deployments;DevSecOps+Automation;Production+Monitoring" />
 
-- Monitor and troubleshoot production applications using **Grafana, logs, alerts, and operational dashboards**.
-- Investigate application and data issues across **UAT and Production** environments.
-- Develop and modify **Apache Airflow DAGs, schedules, dependencies, and distribution workflows**.
-- Work with **Linux, Shell/KSH, Git, AWK/Gawk**, and operational tooling.
-- Analyze large datasets and metadata to identify data-quality and attribute-related issues.
-- Collaborate with application and data teams to validate fixes and production changes.
-- Support incident investigation, change implementation, and operational validation within managed-service environments.
+</div>
 
 ---
 
-## Technical Skills
+## `01` — WHO I AM
 
-### Cloud & Infrastructure
+```yaml
+name: Ayush Singh
+role: DevOps & Cloud Engineer
+location: Bengaluru, India
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45">
-</p>
+focus:
+  - Cloud Infrastructure
+  - CI/CD Automation
+  - Kubernetes & Containers
+  - Infrastructure as Code
+  - GitOps
+  - DevSecOps
+  - Observability
 
-**AWS:** EC2 · S3 · Lambda · VPC · CloudWatch · EKS · IAM · Route 53
+currently:
+  - Production Application Support
+  - Apache Airflow
+  - Linux & Shell
+  - Cloud & DevOps Automation
 
-### Containers & Orchestration
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" height="45">
-</p>
-
-Docker · Kubernetes · Helm · Amazon EKS
-
-### CI/CD & GitOps
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="45">
-</p>
-
-Jenkins · GitHub Actions · Git · Argo CD · GitOps · CI/CD
-
-### DevSecOps & Automation
-
-SonarQube · Trivy · OWASP Dependency-Check · n8n · Ansible · Shell Scripting
-
-### Monitoring & Observability
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="45">
-</p>
-
-Prometheus · Grafana · Loki · Application Monitoring · Centralized Logging
-
-### Development
-
-Java · Python · JavaScript · SQL
+engineering_mindset:
+  automate_everything: true
+  infrastructure_as_code: true
+  security_shift_left: true
+  monitor_before_failure: true
+```
 
 ---
 
-## Featured Projects
+## `02` — ENGINEERING STACK
 
-### 01 · End-to-End DevOps Platform — AWS EKS
+<div align="center">
 
-Built an automated cloud deployment platform using Infrastructure as Code and GitOps practices.
+### ☁️ CLOUD
 
-- Provisioned AWS infrastructure using **Terraform**.
-- Built CI/CD workflows with **Jenkins**.
-- Containerized applications using **Docker**.
-- Implemented Kubernetes deployments on **Amazon EKS**.
-- Integrated **Argo CD** for GitOps-based application synchronization.
-- Added **Prometheus and Grafana** for monitoring and observability.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="55">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="55">
 
-**Stack:** Terraform · Jenkins · Docker · Kubernetes · Argo CD · Prometheus · Grafana · AWS EKS
+<br>
+
+`AWS` `EC2` `S3` `Lambda` `VPC` `EKS` `IAM` `CloudWatch` `Route 53`
+
+<br><br>
+
+### ⚙️ DEVOPS
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="55">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="55">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="55">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" height="55">
+
+<br>
+
+`Docker` `Kubernetes` `Jenkins` `Terraform` `Helm` `Argo CD` `GitHub Actions`
+
+<br><br>
+
+### 🔐 DEVSECOPS
+
+`SonarQube` `Trivy` `OWASP Dependency-Check` `n8n`
+
+<br><br>
+
+### 📊 OBSERVABILITY
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="48">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="48">
+
+<br>
+
+`Prometheus` `Grafana` `Loki` `Logging` `Alerting`
+
+</div>
 
 ---
 
-### 02 · GitOps Microservices Platform — Amazon EKS
+## `03` — PRODUCTION EXPERIENCE
 
-Designed and deployed a multi-service application architecture using cloud-native DevOps tooling.
+### 🏢 Managed Services Consultant
 
-- Automated infrastructure provisioning with **Terraform**.
-- Containerized microservices with **Docker**.
-- Implemented CI/CD using **GitHub Actions**.
-- Automated Kubernetes deployments using **Argo CD**.
-- Managed application packaging with **Helm**.
-- Implemented monitoring and structured logging.
-
-**Stack:** Terraform · Docker · GitHub Actions · Argo CD · Helm · Amazon EKS
-
----
-
-### 03 · DevSecOps CI/CD Pipeline
-
-Designed a security-focused CI/CD workflow integrating automated code, dependency, and container security checks.
+**Gresham Technology · 2026 — Present**
 
 ```text
-Git
- │
- ▼
-Jenkins
- │
- ├── OWASP Dependency-Check
- ├── SonarQube
- ├── Quality Gate
- └── Trivy
- │
- ▼
-Docker Build
- │
- ▼
-Container Registry
- │
- ▼
-n8n Webhook
- │
- ├── No Findings → Notification
- │
- └── Findings
-       │
-       ▼
-   AI-Assisted Triage
-       │
-       ├── Priority
-       ├── Impact
-       ├── Affected Package
-       ├── Fixed Version
-       └── Recommended Action
-       │
-       ▼
- Notification / Jira
-       │
-       ▼
-    Argo CD
-       │
-       ▼
-  Kubernetes
-       │
-       ▼
-Prometheus + Grafana
+APPLICATION SUPPORT
+        │
+        ├── Production Monitoring
+        ├── Incident Investigation
+        ├── Log & Alert Analysis
+        └── UAT / Production Validation
+
+DATA OPERATIONS
+        │
+        ├── Apache Airflow
+        ├── DAG Development
+        ├── Scheduling & Dependencies
+        └── Data Distribution
+
+AUTOMATION & ENGINEERING
+        │
+        ├── Linux / Shell / KSH
+        ├── Git
+        ├── AWK / Gawk
+        └── Operational Automation
+```
+
+**Working across application support, data operations, workflow automation, and DevOps-oriented environments.**
+
+---
+
+## `04` — FEATURED ENGINEERING
+
+### 🚀 AWS EKS — GitOps Platform
+
+```text
+                    ┌──────────────┐
+                    │   DEVELOPER  │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    GITHUB    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    JENKINS   │
+                    └──────┬───────┘
+                           │
+                    ┌──────▼───────┐
+                    │    DOCKER    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   ARGO CD    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │   AMAZON EKS     │
+                  │   KUBERNETES     │
+                  └────────┬─────────┘
+                           │
+              ┌────────────┴────────────┐
+              ▼                         ▼
+        ┌────────────┐           ┌────────────┐
+        │ PROMETHEUS │           │  GRAFANA   │
+        └────────────┘           └────────────┘
+```
+
+**Built a complete cloud-native deployment workflow combining Terraform, Jenkins, Docker, Kubernetes, Argo CD, and observability tooling.**
+
+`Terraform` `Jenkins` `Docker` `Argo CD` `Kubernetes` `AWS EKS` `Prometheus` `Grafana`
+
+---
+
+### 🛡️ DevSecOps + AI-Assisted Security Pipeline
+
+<div align="center">
+
+`CODE`
+**→**
+`GIT`
+**→**
+`JENKINS`
+**→**
+`SONARQUBE`
+**→**
+`TRIVY`
+**→**
+`DOCKER`
+**→**
+`n8n`
+**→**
+`AI TRIAGE`
+**→**
+`ARGO CD`
+**→**
+`KUBERNETES`
+
+</div>
+
+```text
+                  SECURITY PIPELINE
+                        │
+        ┌───────────────┼────────────────┐
+        ▼               ▼                ▼
+   Dependency        Code Quality    Container
+     Scan               Scan          Scan
+        │               │                │
+        └───────────────┼────────────────┘
+                        ▼
+                   n8n WEBHOOK
+                        │
+                 ┌──────┴──────┐
+                 ▼             ▼
+              CLEAN         FINDING
+                 │             │
+                 ▼             ▼
+           NOTIFICATION     AI TRIAGE
+                               │
+                    ┌──────────┼──────────┐
+                    ▼          ▼          ▼
+                 IMPACT     PACKAGE    FIX VERSION
+                    │          │          │
+                    └──────────┼──────────┘
+                               ▼
+                         RECOMMENDED
+                           ACTION
+                               │
+                               ▼
+                        NOTIFICATION /
+                            JIRA
+                               │
+                               ▼
+                           ARGO CD
+                               │
+                               ▼
+                          KUBERNETES
+```
+
+**Security automation combining static analysis, dependency scanning, container scanning, workflow automation, and AI-assisted vulnerability triage.**
+
+---
+
+## `05` — MORE PROJECTS
+
+| Project                             | Focus                      | Technologies                                  |
+| ----------------------------------- | -------------------------- | --------------------------------------------- |
+| **GitOps Microservices Platform**   | Cloud-native microservices | AWS EKS · Terraform · Docker · Helm · Argo CD |
+| **Netflix DevSecOps Pipeline**      | Secure CI/CD               | Jenkins · Docker · Kubernetes · Trivy         |
+| **Serverless Blog Platform**        | Serverless architecture    | Lambda · API Gateway · DynamoDB · Terraform   |
+| **Cloud Infrastructure Automation** | Infrastructure as Code     | Terraform · AWS · GitLab CI/CD                |
+
+---
+
+## `06` — ENGINEERING PRINCIPLES
+
+<div align="center">
+
+|   PRINCIPLE  | IMPLEMENTATION                  |
+| :----------: | :------------------------------ |
+| **AUTOMATE** | Terraform · Jenkins · n8n       |
+|  **SECURE**  | SonarQube · Trivy · OWASP       |
+|  **DEPLOY**  | Docker · Kubernetes · Argo CD   |
+|  **OBSERVE** | Prometheus · Grafana · Loki     |
+|   **SCALE**  | AWS · EKS · Helm                |
+|  **REPEAT**  | GitOps · Infrastructure as Code |
+
+</div>
+
+---
+
+## `07` — GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-singh986&show_icons=true&hide_border=true&theme=transparent">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh986&layout=compact&hide_border=true&theme=transparent">
+
+<br>
+
+<img src="https://ghchart.rshah.org/0EA5E9/ayush-singh986" width="90%">
+
+</div>
+
+---
+
+## `08` — EDUCATION
+
+**B.Tech — Computer Science & Engineering**
+Sri Venkateshwara College of Engineering, Bengaluru
+**2021 – 2025 · GPA 7.92 / 10**
+
+---
+
+<div align="center">
+
+## `LET'S BUILD SOMETHING`
+
+**DevOps • Cloud • Automation • Infrastructure**
+
+<br>
+
+<a href="https://linkedin.com/in/ayush-singh-59469b310">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:ayush054483@gmail.com">
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/slamb2k/devops-gifs/main/re3MmM.gif" width="380">
+
+<br>
+
+`AUTOMATE • SECURE • DEPLOY • OBSERVE`
+
+</div>
