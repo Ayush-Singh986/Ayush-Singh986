@@ -1,432 +1,450 @@
 <div align="center">
 
-# ⚡ AYUSH SINGH
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=AYUSH%20SINGH&fontSize=65&fontColor=ffffff&color=0:050505,50:101820,100:16222A&stroke=ffffff&strokeWidth=1&animation=fadeIn" width="100%"/>
+
+<br>
 
 ### `DEVOPS ENGINEER` · `CLOUD` · `DEVSECOPS`
 
-**Building • Automating • Deploying • Monitoring**
-
-<br>
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/src/demo.gif" width="0">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ayush-singh-59469b310)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayush-singh986)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ayush054483@gmail.com)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,100:24292f&section=header"/>
-
-</div>
-
----
-
-## 🧑‍💻 `whoami`
-
-```yaml
-name: Ayush Singh
-role: Managed Services Consultant / DevOps Engineer
-location: Bangalore, India
-
-focus:
-  - Cloud Infrastructure ☁️
-  - Kubernetes ☸️
-  - CI/CD ⚙️
-  - GitOps 🚀
-  - DevSecOps 🔐
-  - Production Monitoring 📊
-  - Automation 🤖
-
-currently:
-  - Production Support
-  - Apache Airflow
-  - AWS
-  - Kubernetes
-  - DevOps Automation
+```text
+☁️  AWS        ☸️  KUBERNETES        ⚙️  AUTOMATION
+🔐  SECURITY   🚀  GITOPS             📊  OBSERVABILITY
 ```
 
-> ⚡ I build and support **cloud-native systems**, automate repetitive operations, troubleshoot production issues, and design CI/CD + GitOps workflows.
+<br>
+
+[ LinkedIn ](https://linkedin.com/in/ayush-singh-59469b310) ·
+[ GitHub ](https://github.com/ayush-singh986) ·
+[ Email ](mailto:ayush054483@gmail.com)
+
+<br>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ☁️ `DEVOPS MINDSET`
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420">
 
-<img src="https://media.giphy.com/media/836HiJc7pgfN95nSL3/giphy.gif" width="500">
+### `I BUILD SYSTEMS THAT BUILD, DEPLOY & OBSERVE THEMSELVES.`
 
-### `CODE → BUILD → TEST → SECURE → DEPLOY → OBSERVE`
+</div>
+
+<br>
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   $ whoami                                                   │
+│                                                              │
+│   ayush@devops                                               │
+│                                                              │
+│   Managed Services Consultant                                │
+│   DevOps Engineer                                            │
+│                                                              │
+│   ├── production operations                                  │
+│   ├── cloud infrastructure                                   │
+│   ├── Kubernetes                                             │
+│   ├── CI/CD                                                  │
+│   ├── GitOps                                                 │
+│   └── DevSecOps                                              │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+# ⚡ THE LOOP
+
+<div align="center">
+
+```text
+        CODE
+         │
+         ▼
+      ┌───────┐
+      │ BUILD │
+      └───┬───┘
+          │
+          ▼
+      ┌────────┐
+      │ SECURE │
+      └───┬────┘
+          │
+          ▼
+      ┌─────────┐
+      │  SHIP   │
+      └────┬────┘
+           │
+           ▼
+      ┌─────────┐
+      │ DEPLOY  │
+      └────┬────┘
+           │
+           ▼
+      ┌──────────┐
+      │ OBSERVE  │
+      └────┬─────┘
+           │
+           └───────────────↺
+```
+
+### `AUTOMATE → OBSERVE → IMPROVE → REPEAT`
 
 </div>
 
 ---
 
-# 🛠️ `TECH STACK`
+# ☁️ CLOUD / ⚙️ AUTOMATION / ☸️ KUBERNETES
 
-### ☁️ Cloud
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=terraform" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,git,linux,helm,python,java,bash" />
 
-`EC2` `S3` `VPC` `RDS` `DynamoDB` `Lambda` `IAM` `CloudWatch`
+<br><br>
 
-### ⚙️ DevOps
+`AWS` · `Terraform` · `Docker` · `Kubernetes` · `Jenkins` · `GitHub Actions`
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,linux,bash" />
-</p>
+`Argo CD` · `Helm` · `Prometheus` · `Grafana` · `SonarQube` · `Trivy`
 
-### 🚀 GitOps & Platform
+`Apache Airflow` · `n8n` · `Git` · `Linux` · `Shell`
 
-<p>
-<img src="https://skillicons.dev/icons?i=argocd,kubernetes,helm" />
-</p>
-
-### 📊 Observability
-
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
-
-### 🔐 DevSecOps
-
-`OWASP Dependency-Check` · `SonarQube` · `Trivy` · `n8n` · `AI Security Automation`
-
-### 💻 Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+</div>
 
 ---
 
-# 🚀 `WHAT I DO`
-
-<table>
-<tr>
-<td width="50%">
-
-### ☁️ Cloud Infrastructure
-
-Provision and automate AWS infrastructure using **Terraform**.
-
-`AWS` `Terraform` `IaC`
-
-</td>
-
-<td width="50%">
-
-### ⚙️ CI/CD
-
-Build automated pipelines for reliable application delivery.
-
-`Jenkins` `GitHub Actions` `Docker`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ☸️ Kubernetes
-
-Deploy, manage and monitor containerized workloads.
-
-`Kubernetes` `EKS` `Helm`
-
-</td>
-
-<td>
-
-### 🔄 GitOps
-
-Automate Kubernetes deployments through Git-driven workflows.
-
-`Argo CD` `GitHub`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🔐 DevSecOps
-
-Integrate security into the software delivery pipeline.
-
-`OWASP` `SonarQube` `Trivy`
-
-</td>
-
-<td>
-
-### 📊 Observability
-
-Monitor applications, infrastructure and production systems.
-
-`Prometheus` `Grafana` `CloudWatch`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧩 `FEATURED PROJECTS`
-
-## 🔐 AI-Driven DevSecOps CI/CD & GitOps
-
-<img align="right" width="330" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-A complete DevSecOps pipeline combining **CI/CD, security scanning, AI-assisted vulnerability triage and GitOps deployment**.
+# 🛰️ CURRENT MISSION
 
 ```text
-GitHub
-   ↓
-Jenkins
-   ↓
-OWASP ── SonarQube ── Trivy
-   ↓
-Docker
-   ↓
-n8n + AI
-   ↓
-P1 / P2 / P3 / P4
-   ↓
-Argo CD
-   ↓
-Kubernetes / EKS
-   ↓
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  [ CLOUD ]                                                 │
+│      ↓                                                     │
+│  AWS + Terraform                                           │
+│      ↓                                                     │
+│  [ CONTAINERS ]                                            │
+│      ↓                                                     │
+│  Docker + Kubernetes                                       │
+│      ↓                                                     │
+│  [ DELIVERY ]                                              │
+│      ↓                                                     │
+│  Jenkins + GitHub Actions                                  │
+│      ↓                                                     │
+│  [ GITOPS ]                                                │
+│      ↓                                                     │
+│  Argo CD                                                    │
+│      ↓                                                     │
+│  [ SECURITY ]                                              │
+│      ↓                                                     │
+│  OWASP + SonarQube + Trivy                                 │
+│      ↓                                                     │
+│  [ OBSERVABILITY ]                                         │
+│      ↓                                                     │
+│  Prometheus + Grafana                                      │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+<br>
+
+<div align="center">
+
+### 🧠 `CURRENTLY EXPLORING`
+
+**Kubernetes · Platform Engineering · DevSecOps · AI Automation**
+
+</div>
+
+---
+
+# 🚀 FEATURED BUILD
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="480">
+
+## `AI-DRIVEN DEVSECOPS`
+
+### `CI/CD × SECURITY × AI × GITOPS`
+
+</div>
+
+```text
+Developer
+    │
+    ▼
+  GitHub
+    │
+    ▼
+ Jenkins
+    │
+    ├──────────────┐
+    ▼              ▼
+SonarQube       OWASP
+    │              │
+    └──────┬───────┘
+           ▼
+         Trivy
+           │
+           ▼
+        Docker
+           │
+           ▼
+       n8n + AI
+           │
+      ┌────┴────┐
+      ▼         ▼
+   P1 → P4   Notification
+      │
+      ▼
+    Argo CD
+      │
+      ▼
+ Kubernetes / EKS
+      │
+      ▼
 Prometheus + Grafana
 ```
 
-### 📈 Results
+### `WHAT CHANGED`
 
-* ⚡ **30%** faster infrastructure installation
-* 🚀 **95%** reported deployment success rate
-* 🔄 **80%** reduction in manual deployment intervention
-* 📊 **40%** faster issue detection
-* 🤖 AI-assisted **P1–P4 vulnerability triage**
+**30%** faster infrastructure installation
 
-**Stack:** `Terraform` `AWS` `Jenkins` `Docker` `OWASP` `SonarQube` `Trivy` `n8n` `AI` `Argo CD` `Kubernetes` `Prometheus` `Grafana`
+**95%** reported deployment success rate
 
-<br clear="right"/>
+**80%** less manual deployment intervention
+
+**40%** faster issue detection
+
+**P1 → P4** automated vulnerability triage
+
+<sub>Terraform · AWS · Jenkins · Docker · OWASP · SonarQube · Trivy · n8n · AI · Argo CD · Kubernetes · Prometheus · Grafana</sub>
 
 ---
 
-## ☸️ GitOps Microservices Platform
+# ☸️ SECOND BUILD
 
-<img align="right" width="300" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+<div align="center">
 
-Cloud-native microservices platform running on **Amazon EKS Auto Mode**.
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllof1S/giphy.gif" width="300">
+
+## `GITOPS MICROSERVICES`
+
+### `5 SERVICES → EKS AUTO MODE`
+
+</div>
 
 ```text
-GitHub
-   ↓
-GitHub Actions
-   ↓
-Docker → ECR
-   ↓
-Argo CD
-   ↓
-Amazon EKS
-   ↓
-Prometheus
+                  GitHub
+                    │
+                    ▼
+             GitHub Actions
+                    │
+                    ▼
+              Docker / ECR
+                    │
+                    ▼
+                 Argo CD
+                    │
+                    ▼
+              ┌───────────┐
+              │ EKS AUTO  │
+              │   MODE    │
+              └─────┬─────┘
+                    │
+         ┌──────────┼──────────┐
+         ▼          ▼          ▼
+      Java       Node.js       Go
+         │          │          │
+         └──────────┼──────────┘
+                    ▼
+              Observability
 ```
 
-### 📈 Results
+`40%` provisioning efficiency
 
-* 🧩 **5 microservices**
-* ⚡ **40%** improved provisioning efficiency
-* 🟢 **99.5%** reported uptime
-* 🚀 **50%** faster deployment
-* 📊 **45%** improved incident resolution
-* 📦 **35%** scalability improvement
+`99.5%` reported uptime
 
-**Stack:** `Terraform` `Docker` `GitHub Actions` `EKS` `Argo CD` `Helm` `Prometheus`
+`50%` faster deployment
 
-<br clear="right"/>
+`45%` faster incident resolution
+
+`35%` scalability improvement
 
 ---
 
-# 🏭 `PRODUCTION EXPERIENCE`
+# 🏭 PRODUCTION MODE
 
-### 💼 Managed Services Consultant
+<div align="center">
 
-**Gresham Technology · 2026 — Present**
+<img src="https://media.giphy.com/media/1oF1KAEssm7v8mU1nD/giphy.gif" width="400">
+
+### `WHEN IT BREAKS — I TRACE IT.`
+
+</div>
 
 ```text
-┌──────────────────────────────────────────────────┐
-│                 PRODUCTION OPS                   │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  📊 Monitoring          🔎 Troubleshooting       │
-│  ⚙️ Airflow             🗄️ Data Operations      │
-│  🚨 Incident Response   🔄 Automation            │
-│  ☁️ Cloud / DevOps      📈 Observability         │
-│                                                  │
-└──────────────────────────────────────────────────┘
+ALERT
+  │
+  ▼
+INVESTIGATE
+  │
+  ├── Logs
+  ├── Metrics
+  ├── Data
+  └── Workflow
+  │
+  ▼
+ROOT CAUSE
+  │
+  ▼
+UAT VALIDATION
+  │
+  ▼
+PRODUCTION FIX
+  │
+  ▼
+MONITOR
 ```
 
-* 📊 Production monitoring and alert investigation using Grafana.
-* 🔎 Troubleshooting application and data anomalies.
-* ⚙️ Building and modifying **Apache Airflow DAGs**.
-* 🔄 Supporting enterprise data distribution and extraction workflows.
-* 🧪 UAT validation and production issue investigation.
-* 🤖 Built transaction-reconciliation monitoring automation.
-* 📦 Validated metadata across **173,000+ ADO records**.
-* 🔧 Supported enterprise reference-data platforms.
+### `Managed Services Consultant · Gresham Technology`
+
+Production monitoring, incident troubleshooting, Apache Airflow workflow automation, data operations and enterprise support.
+
+**173,000+** ADO records validated through Formula Engine scripts.
+
+## Built transaction-reconciliation monitoring that compares journal records against message-queue streams to identify missing or mismatched transactions.
+
+# 🧪 DEVSECOPS LAB
+
+```text
+$ ./security-pipeline.sh
+
+[✓] SOURCE
+[✓] CODE QUALITY
+[✓] DEPENDENCY SCAN
+[✓] CONTAINER SCAN
+[✓] AI TRIAGE
+[✓] PRIORITY CLASSIFICATION
+[✓] GITOPS SYNC
+[✓] KUBERNETES DEPLOY
+[✓] MONITORING
+
+STATUS: SECURE DELIVERY PIPELINE
+```
+
+<div align="center">
+
+### 🔐 `SECURITY IS PART OF THE PIPELINE — NOT THE LAST STEP.`
+
+</div>
 
 ---
 
-# 🔥 `DEVOPS PIPELINE`
+# 📡 OBSERVABILITY
 
 <div align="center">
 
 ```text
-        ┌─────────┐
-        │  CODE   │
-        └────┬────┘
-             ↓
-        ┌─────────┐
-        │  BUILD  │
-        └────┬────┘
-             ↓
-       ┌───────────┐
-       │   TEST    │
-       └─────┬─────┘
-             ↓
-      ┌─────────────┐
-      │   SECURITY  │
-      └──────┬──────┘
-             ↓
-       ┌───────────┐
-       │  DOCKER   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │   GITOPS  │
-       └─────┬─────┘
-             ↓
-      ┌─────────────┐
-      │ KUBERNETES  │
-      └──────┬──────┘
-             ↓
-      ┌─────────────┐
-      │  OBSERVE    │
-      └─────────────┘
+             ┌───────────────┐
+             │   APPLICATION │
+             └───────┬───────┘
+                     │
+              ┌──────▼──────┐
+              │    METRICS  │
+              └──────┬──────┘
+                     │
+              Prometheus
+                     │
+                     ▼
+                ┌─────────┐
+                │ Grafana │
+                └─────────┘
+```
+
+### `SEE IT → UNDERSTAND IT → FIX IT`
+
+</div>
+
+---
+
+# 🧩 THE TOOLBOX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,github,git,linux,helm,argocd,prometheus,grafana,python,java,bash" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Apache_Airflow-111111?style=for-the-badge&logo=apacheairflow&logoColor=017CEE"/>
+<img src="https://img.shields.io/badge/SonarQube-111111?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD"/>
+<img src="https://img.shields.io/badge/Trivy-111111?style=for-the-badge&logo=aqua&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+
+</div>
+
+---
+
+# 📊 SIGNAL
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-singh986&show_icons=true&hide_border=true&theme=transparent" width="420">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-singh986&hide_border=true&theme=transparent" width="420">
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ayush-singh986/ayush-singh986/output/github-contribution-grid-snake.svg" width="90%">
+
+</div>
+
+---
+
+# 🖥️ TERMINAL
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  ayush@devops:~$ ./about-me                       │
+│                                                    │
+│  > cloud                                           │
+│  > containers                                      │
+│  > automation                                      │
+│  > security                                        │
+│  > observability                                   │
+│  > gitops                                          │
+│                                                    │
+│  ayush@devops:~$ ./next                            │
+│                                                    │
+│  > build something better                          │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-# 📊 `ENGINEERING SNAPSHOT`
-
 <div align="center">
 
-|                         |                                    |
-| ----------------------- | ---------------------------------- |
-| ☁️ **Cloud**            | AWS                                |
-| ☸️ **Containerization** | Docker · Kubernetes                |
-| 🏗️ **Infrastructure**  | Terraform                          |
-| 🔄 **CI/CD**            | Jenkins · GitHub Actions           |
-| 🚀 **GitOps**           | Argo CD · Helm                     |
-| 🔐 **Security**         | OWASP · SonarQube · Trivy          |
-| 📊 **Observability**    | Prometheus · Grafana               |
-| ⚙️ **Automation**       | Airflow · n8n                      |
-| 💻 **Languages**        | Java · Python · JavaScript · Shell |
-
-</div>
-
----
-
-# 🧠 `CURRENTLY BUILDING`
-
-```text
-☁️ AWS Cloud Architecture
-        ↓
-☸️ Kubernetes
-        ↓
-🚀 GitOps
-        ↓
-🔐 DevSecOps
-        ↓
-🤖 AI Automation
-        ↓
-📊 Observability
-        ↓
-⚙️ Platform Engineering
-```
-
----
-
-# 📈 `GITHUB`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-singh986&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-singh986&hide_border=true&theme=transparent" height="170"/>
-
-</div>
-
----
-
-# 🐍 `CONTRIBUTION FLOW`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayush-singh986/ayush-singh986/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
-
----
-
-# 💻 `TERMINAL`
-
-```bash
-ayush@devops:~$ kubectl get skills
-
-NAME                    STATUS
-──────────────────────  ─────────
-AWS                     ✓ READY
-Kubernetes              ✓ READY
-Docker                  ✓ READY
-Terraform               ✓ READY
-Jenkins                 ✓ READY
-ArgoCD                  ✓ READY
-Prometheus              ✓ READY
-Grafana                 ✓ READY
-DevSecOps               ✓ BUILDING
-AI Automation           ✓ BUILDING
-
-ayush@devops:~$ echo "Automate everything possible."
-
-Automate everything possible.
-```
-
----
-
-<div align="center">
-
-### ⚡ BUILD
-
-### ☁️ AUTOMATE
-
-### 🚀 DEPLOY
-
-### 📊 OBSERVE
-
-### 🔐 SECURE
+# ⚡ `BUILD SOMETHING THAT AUTOMATES ITSELF.`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:24292f,100:111111&section=footer"/>
+`☁️ CLOUD`  `⚙️ AUTOMATION`  `☸️ KUBERNETES`  `🔐 SECURITY`  `📊 OBSERVABILITY`
 
-**Thanks for visiting my profile.**
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:16222A,50:101820,100:050505&section=footer"/>
 
 </div>
