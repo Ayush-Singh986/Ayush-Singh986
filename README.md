@@ -1,60 +1,58 @@
 <div align="center">
 
-# AYUSH SINGH
-
-### `MANAGED SERVICES CONSULTANT · APPLICATION SUPPORT · DEVOPS`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=AYUSH%20SINGH&fontSize=72&fontColor=58A6FF&fontAlignY=42&desc=MANAGED%20SERVICES%20CONSULTANT%20%7C%20DEVOPS%20%7C%20CLOUD&descSize=17&descAlignY=62&animation=fadeIn&color=0D1117"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Cloud+Infrastructure+%2F+Automation;CI%2FCD+%2F+Kubernetes+%2F+GitOps;Application+Support+%2F+Production+Operations;Building+reliable+paths+to+production" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=APPLICATION+SUPPORT+%E2%80%A2+DEVOPS+%E2%80%A2+CLOUD;KUBERNETES+%E2%80%A2+CI%2FCD+%E2%80%A2+GITOPS;AUTOMATION+%E2%80%A2+DEVSECOPS+%E2%80%A2+OBSERVABILITY" />
 
 <br><br>
 
 <a href="https://linkedin.com/in/ayush-singh-59469b310">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
 &nbsp;
 <a href="https://github.com/Ayush-Singh986">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 &nbsp;
 <a href="mailto:ayush054483@gmail.com">
-<img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
 </a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0D1117&animation=fadeIn"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `CLOUD`   `AUTOMATION`   `CONTAINERS`   `GITOPS`   `OBSERVABILITY`
 
 </div>
 
 <br>
 
-## ABOUT
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/terminal.gif" width="700"/>
+
+</div>
+
+---
+
+# `01 / PROFILE`
+
+### Building, operating and automating production systems.
 
 I'm a **Managed Services Consultant at Gresham Technology**, working across application support and data-operations workflows.
 
-My day-to-day work includes **production troubleshooting, Airflow workflow support, CI/CD maintenance, deployment operations, and cloud infrastructure support**.
+My work sits between **production operations and DevOps engineering** — troubleshooting applications, supporting Airflow workflows, maintaining CI/CD pipelines, assisting with cloud infrastructure, and improving repetitive operational processes through automation.
 
-Outside day-to-day operations, I build and experiment with **DevOps, Kubernetes, DevSecOps, and cloud automation workflows**.
+<br>
+
+`APPLICATION SUPPORT`   `CLOUD`   `DEVOPS`   `KUBERNETES`   `AUTOMATION`
 
 ---
 
 <div align="center">
 
-## THE STACK
+# `02 / THE ENGINEERING STACK`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,git,linux,ansible,helm&perline=5&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,git,linux,ansible,helm&perline=5&theme=dark"/>
 
 <br><br>
 
@@ -64,175 +62,69 @@ Outside day-to-day operations, I build and experiment with **DevOps, Kubernetes,
 
 ---
 
-# SELECTED WORK
+# `03 / WHAT I BUILD`
 
 <br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔐 DevSecOps
-
-### CI/CD + AI Security Automation
-
-A delivery workflow combining:
-
-`Jenkins`
-
-`OWASP`
-
-`SonarQube`
-
-`Trivy`
-
-`Docker`
-
-`n8n`
-
-`AI`
-
-`Argo CD`
-
-`Kubernetes`
-
-`Prometheus`
-
-`Grafana`
-
-<br>
-
-**Focus**
-
-Automated security scanning, AI-assisted vulnerability triage, GitOps deployment and production observability.
-
-</td>
-
-<td width="50%" valign="top">
-
-## ☁️ Cloud
-
-### Infrastructure Automation
-
-Infrastructure and deployment automation built around:
-
-`Terraform`
-
-`AWS`
-
-`Docker`
-
-`Jenkins`
-
-`Kubernetes`
-
-`Argo CD`
-
-<br>
-
-**Focus**
-
-Reproducible infrastructure, containerized deployments and reducing manual operational work.
-
-</td>
-
-</tr>
-</table>
-
----
 
 <div align="center">
 
-## `CODE`
-
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/>
-
-### ↓
-
-## `BUILD`
-
-<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="55"/>
-
-### ↓
-
-## `SECURE`
-
-<img src="https://skillicons.dev/icons?i=sonarqube&theme=dark" width="55"/>
-
-### ↓
-
-## `DEPLOY`
-
-<img src="https://skillicons.dev/icons?i=argocd,kubernetes&theme=dark" width="110"/>
-
-### ↓
-
-## `OBSERVE`
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" width="110"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF&width=850"/>
 
 </div>
 
----
+<br>
 
-# WHAT I WORK ON
+### `01` — DEVSECOPS
 
-<div align="center">
+## CI/CD + AI Security Automation
 
-<table>
-<tr>
+A DevSecOps workflow combining automated delivery, security scanning, AI-assisted vulnerability triage and GitOps deployment.
 
-<td align="center" width="25%">
+<br>
 
-### ☁️
+**PIPELINE**
 
-**CLOUD**
+`GIT` → `JENKINS` → `OWASP` → `SONARQUBE` → `TRIVY` → `DOCKER` → `n8n` → `AI` → `ARGO CD` → `KUBERNETES`
 
-AWS
-Terraform
-Infrastructure
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**AUTOMATION**
-
-Jenkins
-GitHub Actions
-n8n
-
-</td>
-
-<td align="center" width="25%">
-
-### ☸️
-
-**PLATFORM**
-
-Docker
-Kubernetes
-Argo CD
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
+<br>
 
 **OBSERVABILITY**
 
-Prometheus
-Grafana
-CloudWatch
+`PROMETHEUS` · `GRAFANA`
 
-</td>
+<br><br>
 
-</tr>
-</table>
+---
+
+### `02` — CLOUD
+
+## Infrastructure Automation
+
+Infrastructure provisioning and deployment automation using **Terraform and AWS**, combined with containerized workloads and CI/CD.
+
+<br>
+
+`TERRAFORM` → `AWS` → `DOCKER` → `JENKINS` → `KUBERNETES` → `ARGO CD`
+
+<br><br>
+
+---
+
+### `03` — PLATFORM
+
+## Kubernetes & GitOps
+
+Hands-on work with container orchestration, Helm-based deployments, GitOps workflows and production monitoring.
+
+<br>
+
+`DOCKER` · `KUBERNETES` · `HELM` · `ARGO CD` · `PROMETHEUS` · `GRAFANA`
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF&width=850"/>
 
 </div>
 
@@ -240,7 +132,7 @@ CloudWatch
 
 <div align="center">
 
-# 🌌 3D CONTRIBUTION
+# `04 / 3D ACTIVITY`
 
 <br>
 
@@ -250,71 +142,65 @@ CloudWatch
 
 ---
 
-# LEARNING LAB
+# `05 / LEARNING LAB`
 
-Hands-on repositories where I've practiced different technologies and deployment patterns.
+These repositories represent hands-on learning and technology practice.
 
 <br>
 
-<a href="https://github.com/Ayush-Singh986/k9s">
+**KUBERNETES**
 
-### `k9s`
+[k9s](https://github.com/Ayush-Singh986/k9s)
 
-Kubernetes CLI & cluster management
+Kubernetes CLI and cluster-management practice.
 
-</a>
+<br>
 
-<a href="https://github.com/Ayush-Singh986/terraform-ansible-multi-env">
+**INFRASTRUCTURE**
 
-### `terraform-ansible-multi-env`
+[terraform-ansible-multi-env](https://github.com/Ayush-Singh986/terraform-ansible-multi-env)
 
-Multi-environment infrastructure automation
+Multi-environment infrastructure automation.
 
-</a>
+<br>
 
-<a href="https://github.com/Ayush-Singh986/Springboot-BankApp">
+**BACKEND + DEVOPS**
 
-### `Springboot-BankApp`
+[Springboot-BankApp](https://github.com/Ayush-Singh986/Springboot-BankApp)
 
-Spring Boot + DevOps deployment practice
+Spring Boot application and deployment practice.
 
-</a>
+<br>
 
-<a href="https://github.com/Ayush-Singh986/Wanderlust-Mega-Project">
+**FULL STACK + DEVOPS**
 
-### `Wanderlust-Mega-Project`
+[Wanderlust-Mega-Project](https://github.com/Ayush-Singh986/Wanderlust-Mega-Project)
 
-Full-stack deployment practice
-
-</a>
+Application deployment and DevOps practice.
 
 ---
 
 <div align="center">
 
-## CURRENTLY EXPLORING
+# `06 / CURRENTLY EXPLORING`
 
-`Kubernetes Internals`
-`Platform Engineering`
-`GitOps`
-`AI-assisted DevSecOps`
-`Production Observability`
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=KUBERNETES+INTERNALS;PLATFORM+ENGINEERING;GITOPS+AUTOMATION;AI-ASSISTED+DEVSECOPS;PRODUCTION+OBSERVABILITY"/>
 
 </div>
 
 ---
 
+# `07 / GITHUB`
+
 <div align="center">
-
-## GITHUB ACTIVITY
-
-<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Singh986&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="96%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush-Singh986&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush-Singh986&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Singh986&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%"/>
 
@@ -324,18 +210,20 @@ Full-stack deployment practice
 
 <div align="center">
 
-<br>
+<br><br>
 
-### `BUILD · AUTOMATE · DEPLOY · OBSERVE`
+# `BUILD · AUTOMATE · OBSERVE`
+
+### Open to conversations around DevOps, Cloud, Kubernetes & Automation.
 
 <br>
 
 <a href="https://linkedin.com/in/ayush-singh-59469b310">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/CONNECT-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0D1117&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=fadeIn&color=0D1117"/>
 
 </div>
