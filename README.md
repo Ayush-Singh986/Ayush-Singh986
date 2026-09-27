@@ -35,32 +35,14 @@ I work on the intersection of application support and cloud infrastructure — C
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,linux,git,prometheus,grafana" />
 </p>
 
-## Featured Projects
+## Hands-On Learning
 
-### DevSecOps Netflix Clone Deployment
-CI/CD pipeline with security scanning built into the pipeline, not bolted on after.
-- **Stack:** Jenkins, Docker, Kubernetes, Prometheus, Grafana, Trivy
-- **What it does:** Automated build → scan → deploy pipeline with monitoring on the deployed workload.
-- 🔗 **[Add real repo link here]**
-
-### Serverless Blog App with Auto-Remediation
-Event-driven serverless app with automated remediation for common failure cases.
-- **Stack:** AWS Lambda, API Gateway, DynamoDB, Terraform
-- **What it does:** Infrastructure defined as code, with Lambda-based auto-remediation triggers.
-- 🔗 **[Add real repo link here]**
-
-> ⚠️ Both links above are placeholders. Replace with real repo URLs before publishing — an unlinked "featured project" is a red flag to anyone checking your work.
-
-## Exploring / Hands-On Learning
-
-Repos I've forked and worked through to learn specific tools — not original builds, listed honestly as learning references:
+Repos I've worked through to learn specific tools and practices — listed honestly as learning work, not original builds:
 
 - [k9s](https://github.com/Ayush-Singh986/k9s) — Kubernetes CLI, used to practice cluster management
 - [terraform-ansible-multi-env](https://github.com/Ayush-Singh986/terraform-ansible-multi-env) — multi-environment IaC patterns
 - [Springboot-BankApp](https://github.com/Ayush-Singh986/Springboot-BankApp) — Spring Boot + DevOps deployment practice
 - [Wanderlust-Mega-Project](https://github.com/Ayush-Singh986/Wanderlust-Mega-Project) — full-stack deployment practice
-
-> If you've modified any of these meaningfully (added your own pipeline, config, or features), move it up to **Featured Projects** and describe exactly what you changed — that's what makes a fork worth showing.
 
 ## Currently Exploring
 
