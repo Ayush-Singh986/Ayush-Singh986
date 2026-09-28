@@ -1,5 +1,5 @@
 {
-  "_note": "DRAFT values (1-5). Edit these to your honest self-rating, then run: python3 scripts/generate_assets.py",
+  "_note": "DRAFT values (1-5). Edit these to your honest self-rating, then run: python3 generate_assets.py",
   "axes": [
     {"name": "AWS", "value": 3},
     {"name": "Kubernetes", "value": 3},
