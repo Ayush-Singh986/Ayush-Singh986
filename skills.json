@@ -1,0 +1,13 @@
+{
+  "_note": "DRAFT values (1-5). Edit these to your honest self-rating, then run: python3 scripts/generate_assets.py",
+  "axes": [
+    {"name": "AWS", "value": 3},
+    {"name": "Kubernetes", "value": 3},
+    {"name": "CI/CD", "value": 3},
+    {"name": "IaC", "value": 3},
+    {"name": "Monitoring", "value": 3},
+    {"name": "DevSecOps", "value": 2},
+    {"name": "Scripting", "value": 3},
+    {"name": "Incident Support", "value": 4}
+  ]
+}
