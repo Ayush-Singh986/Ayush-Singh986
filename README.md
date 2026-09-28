@@ -1,17 +1,17 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Ayush Singh - Managed Services Consultant, DevOps, Cloud">
+  <source media="(prefers-color-scheme: dark)"  srcset="banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+  <img src="banner-dark.svg" width="100%" alt="Ayush Singh - Managed Services Consultant, DevOps, Cloud">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/tagline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/tagline-light.svg">
-  <img src="assets/tagline-dark.svg" width="880" alt="Ayush - Managed Services Consultant and DevOps">
+  <source media="(prefers-color-scheme: dark)"  srcset="tagline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="tagline-light.svg">
+  <img src="tagline-dark.svg" width="880" alt="Ayush - Managed Services Consultant and DevOps">
 </picture>
 
 <br>
@@ -51,12 +51,12 @@ I keep production systems running and I automate the boring parts.
 ## signals
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="440" alt="Self-rated skill radar chart">
+  <source media="(prefers-color-scheme: dark)"  srcset="radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="radar-light.svg">
+  <img src="radar-dark.svg" width="440" alt="Self-rated skill radar chart">
 </picture>
 
-<sub>Self-rated, 1 to 5. Edit <code>assets/skills.json</code> and run <code>scripts/generate_assets.py</code> to redraw.</sub>
+<sub>Self-rated, 1 to 5. Edit <code>skills.json</code> and run <code>scripts/generate_assets.py</code> to redraw.</sub>
 
 </div>
 
