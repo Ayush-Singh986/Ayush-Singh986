@@ -22,33 +22,29 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/terminal.gif" width="700"/>
-
-</div>
-
 ---
 
 # `01 / PROFILE`
 
-### Building, operating and automating production systems.
+### Supporting, operating and automating production systems.
 
-I'm a **Managed Services Consultant at Gresham Technology**, working across application support and data-operations workflows.
+I'm a **Managed Services Consultant at Gresham Technology**. I work on application support and data-operations for multiple client engagements.
 
-My work sits between **production operations and DevOps engineering** — troubleshooting applications, supporting Airflow workflows, maintaining CI/CD pipelines, assisting with cloud infrastructure, and improving repetitive operational processes through automation.
+My work sits between **production operations and DevOps**:
 
-<br>
+- Troubleshooting production applications and investigating incidents
+- Supporting Apache Airflow workflows and data operations
+- Maintaining CI/CD pipelines and assisting with cloud infrastructure
+- Automating repetitive operational tasks
 
-`APPLICATION SUPPORT`   `CLOUD`   `DEVOPS`   `KUBERNETES`   `AUTOMATION`
+🎓 B.Tech in Computer Science, Sri Venkateshwara College of Engineering, Bengaluru (2021–2025)
+📍 Bengaluru, India
 
 ---
 
 <div align="center">
 
-# `02 / THE ENGINEERING STACK`
+# `02 / TECH STACK`
 
 <br>
 
@@ -62,127 +58,44 @@ My work sits between **production operations and DevOps engineering** — troubl
 
 ---
 
-# `03 / WHAT I BUILD`
+# `03 / WHAT I WORK ON`
 
-<br>
+### `01` — DevSecOps
 
-<div align="center">
+CI/CD with security checks inside the pipeline: code quality, dependency and container scanning, then deployment.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF&width=850"/>
+`GIT` → `JENKINS` → `OWASP` → `SONARQUBE` → `TRIVY` → `DOCKER` → `ARGO CD` → `KUBERNETES`
 
-</div>
+### `02` — Cloud & Infrastructure as Code
 
-<br>
+Provisioning and deploying on AWS with Terraform, Docker and CI/CD.
 
-### `01` — DEVSECOPS
+`TERRAFORM` → `AWS` → `DOCKER` → `JENKINS` → `KUBERNETES`
 
-## CI/CD + AI Security Automation
+### `03` — Kubernetes, GitOps & Monitoring
 
-A DevSecOps workflow combining automated delivery, security scanning, AI-assisted vulnerability triage and GitOps deployment.
-
-<br>
-
-**PIPELINE**
-
-`GIT` → `JENKINS` → `OWASP` → `SONARQUBE` → `TRIVY` → `DOCKER` → `n8n` → `AI` → `ARGO CD` → `KUBERNETES`
-
-<br>
-
-**OBSERVABILITY**
-
-`PROMETHEUS` · `GRAFANA`
-
-<br><br>
-
----
-
-### `02` — CLOUD
-
-## Infrastructure Automation
-
-Infrastructure provisioning and deployment automation using **Terraform and AWS**, combined with containerized workloads and CI/CD.
-
-<br>
-
-`TERRAFORM` → `AWS` → `DOCKER` → `JENKINS` → `KUBERNETES` → `ARGO CD`
-
-<br><br>
-
----
-
-### `03` — PLATFORM
-
-## Kubernetes & GitOps
-
-Hands-on work with container orchestration, Helm-based deployments, GitOps workflows and production monitoring.
-
-<br>
+Container orchestration, Helm-based deployments, GitOps with Argo CD, and monitoring with Prometheus and Grafana.
 
 `DOCKER` · `KUBERNETES` · `HELM` · `ARGO CD` · `PROMETHEUS` · `GRAFANA`
 
 ---
 
-<div align="center">
+# `04 / HANDS-ON REPOS`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF&width=850"/>
+Repositories I use to practice specific tools:
 
-</div>
-
----
-
-<div align="center">
-
-# `04 / 3D ACTIVITY`
-
-<br>
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
-
-</div>
-
----
-
-# `05 / LEARNING LAB`
-
-These repositories represent hands-on learning and technology practice.
-
-<br>
-
-**KUBERNETES**
-
-[k9s](https://github.com/Ayush-Singh986/k9s)
-
-Kubernetes CLI and cluster-management practice.
-
-<br>
-
-**INFRASTRUCTURE**
-
-[terraform-ansible-multi-env](https://github.com/Ayush-Singh986/terraform-ansible-multi-env)
-
-Multi-environment infrastructure automation.
-
-<br>
-
-**BACKEND + DEVOPS**
-
-[Springboot-BankApp](https://github.com/Ayush-Singh986/Springboot-BankApp)
-
-Spring Boot application and deployment practice.
-
-<br>
-
-**FULL STACK + DEVOPS**
-
-[Wanderlust-Mega-Project](https://github.com/Ayush-Singh986/Wanderlust-Mega-Project)
-
-Application deployment and DevOps practice.
+| Focus | Repo | What I use it for |
+|---|---|---|
+| Kubernetes | [k9s](https://github.com/Ayush-Singh986/k9s) | Cluster management practice |
+| Infrastructure | [terraform-ansible-multi-env](https://github.com/Ayush-Singh986/terraform-ansible-multi-env) | Multi-environment automation |
+| Backend + DevOps | [Springboot-BankApp](https://github.com/Ayush-Singh986/Springboot-BankApp) | Spring Boot deployment practice |
+| Full stack + DevOps | [Wanderlust-Mega-Project](https://github.com/Ayush-Singh986/Wanderlust-Mega-Project) | Application deployment practice |
 
 ---
 
 <div align="center">
 
-# `06 / CURRENTLY EXPLORING`
+# `05 / CURRENTLY EXPLORING`
 
 <br>
 
@@ -192,9 +105,11 @@ Application deployment and DevOps practice.
 
 ---
 
-# `07 / GITHUB`
-
 <div align="center">
+
+# `06 / GITHUB`
+
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Singh986&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="96%"/>
 
@@ -210,16 +125,12 @@ Application deployment and DevOps practice.
 
 <div align="center">
 
-<br><br>
-
-# `BUILD · AUTOMATE · OBSERVE`
-
-### Open to conversations around DevOps, Cloud, Kubernetes & Automation.
+# `OPEN TO OPPORTUNITIES IN DEVOPS & CLOUD`
 
 <br>
 
 <a href="https://linkedin.com/in/ayush-singh-59469b310">
-<img src="https://img.shields.io/badge/CONNECT-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 
 <br><br>
