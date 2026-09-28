@@ -56,7 +56,29 @@ I keep production systems running and I automate the boring parts.
   <img src="radar-dark.svg" width="440" alt="Self-rated skill radar chart">
 </picture>
 
-<sub>Self-rated, 1 to 5. Edit <code>skills.json</code> and run <code>scripts/generate_assets.py</code> to redraw.</sub>
+<sub>Self-rated, 1 to 5. Edit <code>skills.json</code> and run <code>generate_assets.py</code> to redraw.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## the numbers
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="card-stats-light.svg">
+  <img src="card-stats-dark.svg" width="480" alt="GitHub statistics">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="card-languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="card-languages-light.svg">
+  <img src="card-languages-dark.svg" width="480" alt="Most used languages">
+</picture>
 
 </div>
 
